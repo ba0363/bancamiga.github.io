@@ -21,7 +21,7 @@ tabs-left:
     name-tabs: Características
     content-tabs:
       - element-list: Monto de Apertura Flexible
-      - element-list: Los intereses son calculados sobre saldos diarios, según tabla referencial y abonados a fin de mes.<a href=""> Ver tasa de interés</a>
+      - element-list: Los intereses son calculados sobre saldos diarios, según tabla referencial y abonados a fin de mes.
       - element-list: Cheques aceptados a nivel nacional.
       - element-list: Emisión de las primeras dos chequeras sin costo.
       - element-list: Permite realizar transacciones ilimitadas.
