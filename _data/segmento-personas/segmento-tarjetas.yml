@@ -1,11 +1,11 @@
 data-title: 'Cuentas'
-data-image: '/images/aboutsliders/aboutme/about3.jpg'
+data-image: '/images/aboutsliders/aboutme/personas-tarjetas.jpg'
 data-x-title: '80'
 data-y-title: '180'
-title: 'Nuestros productos'
+title: '¡El efectivo pasó de moda!'
 data-x-subtitle: '80'
 data-y-subtitle: '240'
-subtitle: 'Conoce nuestras cuentas de ahorro y corriente'
+#subtitle: ''
 
 
 products:
@@ -13,12 +13,11 @@ products:
     image: '/images/segmentos/tarjetas.png'
   - link: '/tarjetas-tarjeta-credito-master-dorada/'
     image: '/images/segmentos/tarjetas.png'
-  - link: '/tarjetas-tarjeta-credito-master-platinum/'
-    image: '/images/segmentos/tarjetas.png'
-  - link: '/tarjetas-tarjeta-credito-visa-dorada/'
-    image: '/images/segmentos/tarjetas.png'
-  - link: '/tarjetas-tarjeta-credito-visa-platinum/'
-    image: '/images/segmentos/tarjetas.png'
+  #- link: '/tarjetas-tarjeta-credito-master-platinum/'
+   # - link: '/tarjetas-tarjeta-credito-visa-dorada/'
+   # image: '/images/segmentos/tarjetas.png'
+ # - link: '/tarjetas-tarjeta-credito-visa-platinum/'
+ #   image: '/images/segmentos/tarjetas.png'
 
 
 title-footer: 'ENCUENTRA LO QUE BUSCAS'
