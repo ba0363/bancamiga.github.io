@@ -38,7 +38,7 @@ tabs-left:
     icon-tabs: fa fa-envelope fa-2x
     name-tabs: Requisitos
     content-tabs:
-     - element-list: Para ver el contrato de Tarjeta de Débito y sus cláusulas haz      <a href= "https://bancamiga.github.io/pdf//CONTRATO DE TARJETA DE DEBITO.pdf"> click</a>
+    # - element-list: Para ver el contrato de Tarjeta de Débito y sus cláusulas haz      <a href= "https://bancamiga.github.io/pdf//CONTRATO DE TARJETA DE DEBITO.pdf"> click</a>
       - element-list: Poseer una cuenta corriente o de ahorro en Bancamiga.
       - element-list: Ser mayor de 18 años de edad.
       - element-list: Las cuentas deben ser movilizadas con firmas indistintas o unipersonales.
