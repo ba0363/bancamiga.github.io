@@ -6,7 +6,7 @@ title: 'Certificado de Ahorro'
 data-x-subtitle: '80'
 data-y-subtitle: '240'
 subtitle: 'Es el producto ideal para ti que deseas realizar<br>
-inversiones en un corto plazo a una taza<br>
+inversiones en un corto plazo a una tasa<br>
 de interés competitiva.'
 next: next
 
@@ -27,7 +27,7 @@ tabs-left:
       - element-list: Disponibilidad del capital al vencimiento de la inversión.
       - element-list: El pago de los intereses y el capital serán abonados en la cuenta al vencimiento del plazo.
       - element-list: No permite la renovación automática, sin embargo, podrás solicitar la apertura de un nuevo Certificado al finalizar el plazo convenido, con la posibilidad de cambiar el monto y plazo de inversión. Para hacerlo deberás dirigirte a una Agencia Bancamiga de tu preferencia con 24 horas de anticipación a la solicitud.
-      - element-list: Cuentas con el servicio telefónico para efectuar tus consultas a través del 0501 TUBANCA (8822622) (0212) 8220701 o (0212) 8220702 en horario corrido de Lunes a Domingo incluyendo los días feriados.
+      - element-list: Cuentas con el servicio telefónico para efectuar tus consultas a través del 0501 TUBANCA (8822622) y 0500 TUBANCA (8822622)  en horario corrido de Lunes a Domingo incluyendo los días feriados.
       - element-list: Producto amparado por la garantía de depósitos que constituye el Fondo de Garantía de Depósitos y Protección Bancaria (FOGADE).
       - element-list: Podrás rentabilizar tu dinero en el corto plazo.
       - element-list: Plazos cortos y convenientes para la inversión y liquidez.
@@ -53,9 +53,9 @@ tabs-left:
       - element-list: <a href="http://www.bancamiga.com">Enlace Preguntas Frecuentes</a>
 
 #Preguntas frecuentes
-title-seccion: Preguntas Frecuentes
-preguntas-frecuentes:
-  - name: ¿La Cuenta Corriente con Intereses posee intereses?
+#title-seccion: Preguntas Frecuentes
+#preguntas-frecuentes:
+ # - name: ¿La Cuenta Corriente con Intereses posee intereses?
     id1-collapse: headingOne5
     id2-collapse: collapseOne5
     text-collapse: Desde luego que sí..!!.
