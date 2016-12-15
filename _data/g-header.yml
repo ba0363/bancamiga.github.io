@@ -32,8 +32,8 @@ option-menu:
         url-option: /personas-creditos/
       - name-option: Tarjetas
         url-option: /personas-tarjetas/
-      - #name-option: Canales Electrónicos
-        #url-option: /personas-canales-electronicos/
+      - name-option: Canales Electrónicos
+        url-option: /personas-canales-electronicos/
   - name: Empresas
     icon:  fa fa-briefcase fa-2x
     option: true
