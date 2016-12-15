@@ -10,9 +10,9 @@ subtitle: 'Conoce nuestras cuentas de ahorro y corriente'
 
 products:
   - link: '/inversiones-certificado-ahorro/'
-    image: '/images/icons/segmentos/Perso-Inver-Certi-Deposito.png'
+    image: '/images/segmentos/Perso-Inver-Certi-Deposito.png'
   - link: '/inversiones-certificado-deposito-a-plazo/'
-    image: '/images/icons/segmentos/Perso-Inver-Certi.png'
+    image: '/images/segmentos/Perso-Inver-Certi.png'
   #- link: '/inversiones-deposito-plazo-fijo/'
   #  image: '/images/segmentos/remunerada.png'
 
