@@ -17,78 +17,92 @@ icon-col-4: fa fa-share-alt-square
 
 # links-bancamiga
 links-bancamiga:
-  - title: Régimen cambiario
-    link: /
+  - title: Quienes somos
+    link: /conocenos/
     icon: fa fa-angle-right
-  - title: Tesorería
-    link: /
-    icon: fa fa-angle-right
-  - title: Pagos y cobranzas
-    link: /
-    icon: fa fa-angle-right
-  - title: Fideicomisos
-    link: /
-    icon: fa fa-angle-right
-  - title: Tazas y tarifas
-    link: /tazas-y-tarifas/
+#  - title: Régimen cambiario
+#    link: /
+#    icon: fa fa-angle-right
+#  - title: Tesorería
+#    link: /
+#    icon: fa fa-angle-right
+#  - title: Pagos y cobranzas
+#    link: /
+#    icon: fa fa-angle-right
+#  - title: Fideicomisos
+#    link: /
+#    icon: fa fa-angle-right
+  - title: Tasas y tarifas
+    link: /tasas-y-tarifas/
     icon: fa fa-angle-right
   - title: Politicas de Privacidad
-    link: /
+    link: /pdf/politicas-privacidad.pdf
     icon: fa fa-angle-right
-  - title: Financiamiento
-    link: /
-    icon: fa fa-angle-right
-  - title: Comercio Exterior
-    link: /
-    icon: fa fa-angle-right
+#  - title: Financiamiento
+#    link: /
+#    icon: fa fa-angle-right
+#  - title: Comercio Exterior
+#    link: /
+#    icon: fa fa-angle-right
   - title: Noticias
     link: /noticias/
     icon: fa fa-angle-right
   - title: Seguridad
     link: /seguridad/
     icon: fa fa-angle-right
-  - title: Empleos
-    link: /
-    icon: fa fa-angle-right
+#  - title: Empleos
+#    link: /
+#    icon: fa fa-angle-right
 
 # links-Servicios
 links-Servicios:
-  - title: Bancamiga en Línea
+  - title: Bancamiga en línea
     link: /banca-en-linea/
     icon: fa fa-angle-right
-  - title: Bancamiga Móvil
-    link: /
-    icon: fa fa-angle-right
+#  - title: Bancamiga Móvil
+#    link: /
+#    icon: fa fa-angle-right
   - title: Chequeras
     link: /chequeras/
     icon: fa fa-angle-right
-  - title: Cheques de Gerencia
+  - title: Cheques de gerencia
     link: /cheques-gerencia/
     icon: fa fa-angle-right
   - title: Centro de Atención Bancamiga
     link: /centro-atencion-bancamiga/
     icon: fa fa-angle-right
-  - title: Quienes Somos
-    link: /conocenos/
-    icon: fa fa-angle-right
   - title: Defensor del Cliente y Usuario Bancario
     link: /defensor-del-cliente/
     icon: fa fa-angle-right
-  - title: Atención al Cliente
+  - title: Atención al cliente
     link: /reclamos/
     icon: fa fa-angle-right
   - title: SMS Bancamiga
     link: /sms/
     icon: fa fa-angle-right
-  - title: Otros servicios
-    link: /
-    icon: fa fa-angle-right
+#  - title: Otros servicios
+#    link: /
+#    icon: fa fa-angle-right
 
 # links-Responsabilidad Social
 links-responsabilidad-social:
   - title: UNICEF
-    link: /
+    link: /unicef/
     icon: fa fa-angle-right
   - title: Tatuando Sonrisas
-    link: /
+    link: /tatuando-sonrisas/
     icon: fa fa-angle-right
+
+links-redes-sociales:
+#  - href: "https://www.facebook.com/Bancamiga-473219586176935/home"
+#    class-icon: social-icon icon-facebook
+#    icon: fa fa-facebook
+#    title: Facebook
+  - href: "https://twitter.com/bancamiga?lang=es"
+    class-icon: social-icon icon-twitter
+    icon: fa fa-twitter
+    title: Twitter
+  - href: "https://www.youtube.com/channel/UCcdpe76zChqVWR1CVUFx52w"
+    class-icon: social-icon icon-google-plus
+    icon: fa fa-youtube-play
+    title: Google Plus

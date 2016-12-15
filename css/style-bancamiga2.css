@@ -3,8 +3,8 @@
 @media (min-width: 992px) {
     	.navbar-nav {
     		float: right;
-        margin-left: 7em;
-        /*margin-left: 24px*/
+        /*margin-left: 7em;*/
+        margin-left: 24px
     	}
 
       /*possion horizontal de elementos del menu*/
@@ -252,7 +252,7 @@
 
 /* tamaño logos aliados*/
 .logoFooter{
-	height: 1.5em;
+	height: 1.3em;
 }
 
 /* footer de bancamiga*/

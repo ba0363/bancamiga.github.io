@@ -1,0 +1,33 @@
+---
+layout: 10-home
+revslider-css: "revslider-index2.css"
+style-css: "style-bancamiga2.css"
+permalink: /tatuando-sonrisas/
+---
+
+
+{%
+    include index-bancamiga/g-static-img.html
+    image=site.data.tatuando-sonrisas.image
+    data-title=site.data.tatuando-sonrisas.data-title
+    data-image=site.data.tatuando-sonrisas.data-image
+    data-x-title=site.data.tatuando-sonrisas.data-x-title
+    data-y-title=site.data.tatuando-sonrisas.data-y-title
+    title=site.data.tatuando-sonrisas.title
+    data-x-subtitle=site.data.tatuando-sonrisas.data-x-subtitle
+    data-y-subtitle=site.data.tatuando-sonrisas.data-y-subtitle
+    subtitle=site.data.tatuando-sonrisas.subtitle
+    next=site.data.tatuando-sonrisas.next
+%}
+  <div class="mb40"></div><!-- space -->
+  {% include index-bancamiga/i01-container-about.html
+    title-interna=site.data.tatuando-sonrisas.text-title
+    description-interna=site.data.tatuando-sonrisas.text-about
+    list-images=site.data.tatuando-sonrisas.image-about
+    %}
+  {% include index-bancamiga/i02-container-tabs.html
+      list-tabs=site.data.tatuando-sonrisas.tabs
+  %}
+  <div class="mb10"></div><!-- space -->
+  {% include index-bancamiga/g-menu-links.html %}
+  <div class="mb10"></div><!-- space -->

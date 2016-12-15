@@ -1,0 +1,23 @@
+data-title: 'Image-1'
+data-image: '/images/rseImagenes/bannerUnicef.jpg'
+data-x-title: '780'
+data-y-title: '180'
+title: 'Unicef'
+data-x-subtitle: '780'
+data-y-subtitle: '240'
+subtitle: <b>Programa "La música es mi voz"</b>
+
+
+text-title: "Seguimos haciendo equipo"
+text-about: 'Desde 1993 el Sistema Nacional de las Orquestas y Coros Juveniles e Infantiles de Venezuela, conocido como ”El Sistema”, ha recibido 65 reconocimientos de los cuales 25 la identifican como instrumento de inclusión social, de lucha contra la pobreza, como herramienta a favor de la infancia y del desarrollo social; ocho (8) Doctorados Honoris Causa en disciplinas como Arte, Educación, Música y Salud; seis (6) por su labor Educativa; dieciséis (16) condecoraciones y reconocimientos de alto nivel de los Gobiernos de países e Instituciones y ocho (8) por su aporte al Arte, la Música y la Cultura. Este modelo ha sido también replicado en más de 25 países con el acompañamiento técnico de sus docentes.</br></br>
+
+“El Sistema” tiene como esencia la educación musical universal e inclusiva. Entre sus principales fortalezas están la presencia en la mayoría de los Estados de la República Bolivariana de Venezuela y su estructura organizacional, distribuida en Centros Académicos agrupados por Núcleos y Módulos, que refieren a una presencia Nacional, además de la posibilidad de trabajar en redes generando un proceso de ida y vuelta permanente, por lo que es evidente la posibilidad de desarrollar procesos de información, capacitación, formación de formadores, movilización social e incidencia en el cumplimiento de los derechos de la niñez y la adolescencia.
+FUNDAMUSICAL BOLIVAR sustenta aproximadamente a 1.925 agrupaciones que van desde la etapa maternal con niños, niñas y adolescentes desde los 6 meses de nacidos hasta los 18 años de edad, aproximadamente, con una variedad de orquestas pre-infantiles, infantiles, juveniles, ensambles, bandas, coros asociados y orquestas regionales, no solo sinfónicas, sino jazz, latino-caribeñas, rock, música folklórica-tradicional venezolana, agrupaciones en comunidades indígenas, programa penitenciario, programa de educación especial, programa de atención hospitalaria, academias, entre otras. Desde el 2004, “El Sistema” es Embajador nacional de Buena Voluntad y en 2016 UNICEF renovó el nombramiento.</br></br>
+
+Con estos antecedentes y habiendo identificado coincidencias entre ambos mandatos, en 2004 UNICEF toma la decisión de nombrar como Embajador de Buena Voluntad de UNICEF Venezuela al Sistema Nacional de Orquestas y Coros Juveniles e Infantiles de Venezuela. Este compromiso se renovó en junio de 2016 y en ese marco se acordó un plan de trabajo con una propuesta que lleva por nombre “La música de mi voz” pues vincula la esencia de “El Sistema” como lo es la música con la voz; una voz viva de niños, niñas y adolescentes que demanda reconocimiento, respeto, aceptación y el cumplimiento de sus derechos. Durante el año 2014 se ejecutó un plan piloto de formación en 4 núcleos principales de “El Sistema” en el área metropolitana de Caracas orientado a la promoción de los derechos establecidos en la CDN entre adolescentes, sus familiares y docentes, integrantes del Sistema de Orquestas y Coros Juveniles e Infantiles de Venezuela.</br></br>'
+
+image-about:
+  - image: /images/rseImagenes/unicef1.png
+    description: Images-1
+
+next: 'container-about'

@@ -1,11 +1,11 @@
 data-title: 'Cuentas'
-data-image: '/images/aboutsliders/aboutme/about3.jpg'
+data-image: '/images/Banner/portada-cuentas.jpg'
 data-x-title: '80'
 data-y-title: '180'
 title: 'Nuestros productos'
 data-x-subtitle: '80'
 data-y-subtitle: '240'
-subtitle: 'Conoce nuestras cuentas de ahorro y corriente'
+subtitle: <b>Conoce nuestras cuentas de ahorro y corriente</b>
 
 
 products:
@@ -14,7 +14,7 @@ products:
   - link: '/personas-cuenta-no-remunerada/'
     image: '/images/segmentos/no-remunerada.png'
   - link: '/personas-cuenta-corriente-interes/'
-    image: '/images/segmentos/remunerada.png'
+    image: '/images/segmentos/cuenta-corriente-con-intereses.png'
   #- link: '/personas-cuenta-electronica/'
   #  image: '/images/segmentos/banca-en-linea.png'
   #- link: '/personas-cuenta-moneda-extranjera/'

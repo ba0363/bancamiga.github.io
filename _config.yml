@@ -71,12 +71,16 @@ collections:
     output: true
     permalink: /agencias/:name/
 
-url: "https://bancamiga.github.io" # the base hostname & protocol for your site
-#baseurl: "/pagina-comercial-bancamiga"
+
+#dirección real
+url: "" # the base hostname & protocol for your site
+baseurl: ""
+
+# Dirección de prueba
 #url: ""
 #baseurl: ""
 
-
+#Esta es la Configuración del manejador de contenido
 prose:
   ignore: ['_config.yml',
   '_layouts',
@@ -89,7 +93,7 @@ prose:
   '.gitignore',
   'noticias'
   ]
-  siteurl: "bancamiga.github.io"
+  siteurl: "http://blog.synergy-gb.com/pagina-comercial-bancamiga"
   media: 'images'
   metadata:
     _geo:
@@ -172,11 +176,11 @@ prose:
         field:
           element: "hidden"
           value: "style-bancamiga2.css"
-      - name: "date"
+      - name: date
         field:
-          element: "text"
-          label: "Ingrese la fecha de la Publicación"
-          value: ""
+          element: text
+          label: Fecha de la Publicación
+          value: CURRENT_DATETIME
       - name: "images"
         field:
           element: "textarea"

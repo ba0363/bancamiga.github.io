@@ -1,0 +1,23 @@
+data-title: 'Image-1'
+data-image: '/images/Banner/foto-4.jpg'
+data-x-title: '80'
+data-y-title: '180'
+title: 'Tatuando Sonrisas'
+data-x-subtitle: '80'
+data-y-subtitle: '240'
+subtitle: <b>Cambiamos cicatrices por sonrisas</b>
+
+
+text-title: "Seguimos haciendo equipo"
+text-about: 'Bancamiga y la Fundación Tatuando Sonrisas han concretado una alianza que permitirá brindar atención a personas víctimas de quemaduras, especialmente niños.</br></br>
+
+La Fundación trata con láser las cicatrices de las personas que han sido víctima de quemaduras y que no cuentan con recursos económicos para pagar el tratamiento. Dependiendo de la extensión y gravedad de la cicatriz un tratamiento para una persona puede requerir de varias sesiones. </br></br>
+
+Katiuska Rivera, la joven doctora que dirige la Fundación, explicó que una quemadura no solo deja cicatrices en la piel, también las deja en el estado de ánimo de las personas, por el potencial rechazo que pueden sufrir de su entorno social. Explica que una vez que se mitiga la cicatriz con el tratamiento han podido evidenciar como niños que eran tímidos y tristes, mejoran en su estado de ánimo.
+</br></br>'
+
+image-about:
+  - image: /images/rseImagenes/tatuando1.png
+    description: Images-1
+
+next: 'container-about'

@@ -2,12 +2,10 @@ data-title: 'Image-1'
 data-image: '/images/aboutsliders/aboutme/about4.jpg'
 data-x-title: '80'
 data-y-title: '180'
-title: 'Cuenta no remunerda'
+title: 'Cuenta no remunerada'
 data-x-subtitle: '80'
 data-y-subtitle: '240'
-subtitle: 'Es el producto ideal para ti que deseas realizar<br>
-inversiones en un corto plazo a una taza<br>
-de interés competitiva.'
+subtitle: 'Tienes disponibilidad inmediata de los fondos,<br> ideal para realizar tus pagos cómodamente.'
 next: next
 
 #tabs para descripción de un producto
@@ -23,14 +21,14 @@ tabs-left:
     content-tabs:
       - element-list: Monto de Apertura Flexible
       - element-list: Cuenta sin intereses con disponibilidad inmediata de los fondos.
-      - element-list: Emisión de las primeras dos chequeras sin costo.<a href=""> (Ver comisiones)</a>
+      - element-list: Emisión de las primeras dos chequeras sin costo.
       - element-list: Cheques aceptados a nivel nacional y transacciones ilimitadas.
       - element-list: Movilidad a través de cheques, depósitos y retiros de efectivo en cualquiera de las agencias de Bancamiga.
       - element-list: Seguridad en el pago a proveedores y de terceros, ya que al usar cheques se reduce el riesgo de manejo de efectivo.
       - element-list: Chequeras disponibles según tu preferencia de 25 o 50 cheques.
       - element-list: Emisión de estados de cuenta mensual enviado por correspondencia o correo electrónico.
       - element-list: Afiliación sin costo al Servicio de Bancamiga en Línea donde podrás movilizar y consultar saldos cómodamente y en cualquier momento con tan sólo una conexión a Internet.
-      - element-list: Cuentas con el servicio telefónico para efectuar tus consultas a través del 0501 TUBANCA (8822622) (0212) 8220701 o (0212) 8220702 en horario corrido de Lunes a Domingo incluyendo los días feriados.
+      - element-list: Cuentas con el servicio telefónico para efectuar tus consultas a través del 0501 TUBANCA (8822622) 0500 TUBANCA (8822622) en horario corrido de Lunes a Domingo incluyendo los días feriados.
       - element-list: Depósitos amparados por el Fondo de Garantía de Depósitos y Protección Bancaria (FOGADE)
   - id-tabs: messages8
     icon-tabs: fa fa-envelope fa-2x
@@ -49,17 +47,13 @@ tabs-left:
       - element-list: Una (1) Referencia bancaria con sello húmedo del banco emisor con vigencia no mayor a tres (3) meses de emisión.
       - element-list: Una (1) Referencia Comercial (si posee).
       - element-list: Copia de un (1) Recibo de servicio (agua, luz, teléfono o gas) a nombre del titular con la dirección de residencia o constancia de residencia emitida por la Jefatura Civil, Junta de Condominio o Consejo Comunal, con vigencia no mayor a tres (3) meses de emisión.
-        mesages-footer: Estos recaudos se rigen por lo establecido en la <a href="">Resolución 119.10 "Política conozca a su cliente”</a> emitida por la SUDEBAN. Para algunos casos será necesario consignar documentos adicionales.
+        mesages-footer: Estos recaudos se rigen por lo establecido en la <a href="/pagina-comercial-bancamiga/pdf/resolucion.pdf">Resolución 119.10 "Política conozca a su cliente”</a> emitida por la SUDEBAN. Para algunos casos será necesario consignar documentos adicionales.
   - id-tabs: Enlaces1
     icon-tabs: fa fa-cogs fa-2x
     name-tabs: Enlaces de Interes
     content-tabs:
-      - element-list: <a href="http://www.bancamiga.com"> Montos de Apertura</a>
-      - element-list: <a href="http://www.bancamiga.com">Enlace de Tarifas</a>
-      - element-list: <a href="http://www.bancamiga.com"> Enlace de Tasas </a>
-      - element-list: <a href="http://www.bancamiga.com">Enlace de Términos y condiciones</a>
-      - element-list: <a href="http://www.bancamiga.com">Enlace para formatos, planillas y solicitudes </a>
-      - element-list: <a href="http://www.bancamiga.com">Enlace Preguntas Frecuentes</a>
+      - element-list: <a href="/pdf/tarifas.pdf" >Enlace de Tarifas</a>
+      - element-list: <a href="/pdf/Tasas-y-Tarifas-Bancamiga-Julio-2015.pdf"> Enlace de Tasas </a>
 
 #Preguntas frecuentes
 title-seccion: Preguntas Frecuentes

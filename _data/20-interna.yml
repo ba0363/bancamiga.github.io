@@ -1,12 +1,11 @@
 data-title: 'Image-1'
-data-image: '/images/aboutsliders/aboutme/about.jpg'
+data-image: '/images/Banner/foto-4.jpg'
 data-x-title: '80'
 data-y-title: '180'
 title: 'Conócenos'
 data-x-subtitle: '80'
 data-y-subtitle: '240'
-subtitle: 'Somo una institución privada que apoya</br> el desarrollo económico del pais. especializada</br> en
-satisfacer las necesidades financieras del</br> sector microempresarial.'
+subtitle: '<b>Somos una institución privada que apoya</br> el desarrollo económico del pais.</br> Especializada en satisfacer las necesidades </br> financieras del sector microempresarial.</b>'
 
 
 text-title: "Nuestra Historia"
@@ -22,11 +21,11 @@ La excelente trayectoria hace que hoy puedan sentirse orgullosos de estar mejor 
 
 
 image-about:
-  - image: /images/aboutsliders/aboutme/sliders/foto1.png
+  - image: /images/corporativo/corporativo1.png
     description: Images-1
-  - image: /images/aboutsliders/aboutme/sliders/foto2.png
+  - image: /images/corporativo/corporativo2.png
     description: Images-2
-  - image: /images/aboutsliders/aboutme/sliders/foto3.png
+  - image: /images/corporativo/corporativo3.png
     description: Images-3
 
 next: 'container-about'
@@ -36,12 +35,12 @@ tabs:
     icon-tabs: fa fa-home fa-2x
     name-tabs: Misión
     content-tabs:
-      - element-list: "Ofrecer productos y servicios financieros al sector microempresarial, satisfaciendo constantemente sus necesidades, contribuyendo al desarrollo del país, a través de un personal motivado, comprometido con nuestros valores y la rentabilidad del negocio"
+      - element-list: “Ofrecer productos y servicios financieros a las pequeñas y medianas empresas, de la economía popular y alternativa, así como al sector Microempresarial  en general, satisfaciendo constantemente sus necesidades, contribuyendo al desarrollo del país, a través de un personal motivado, comprometido con nuestros valores y la rentabilidad del negocio”.
   - id-tabs: profile10
     icon-tabs: fa fa-user fa-2x
     name-tabs: Visión
     content-tabs:
-      - element-list: "Ser una organización financiera que trabaja en equipo, siendo clave en el desarrollo y consolidación del microempresariado en Venezuela"
+      - element-list: “Ser una organización financiera que trabaja en equipo, siendo clave en el desarrollo y consolidación de la pequeña, mediana empresa y sector Microempresarial en general en Venezuela”.
   - id-tabs: messages10
     icon-tabs: fa fa-envelope fa-2x
     name-tabs: Valores

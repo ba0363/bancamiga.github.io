@@ -5,9 +5,9 @@ data-y-title: '180'
 title: 'Cuenta de Ahorro'
 data-x-subtitle: '80'
 data-y-subtitle: '240'
-subtitle: 'Es el producto ideal para ti que deseas realizar<br>
-inversiones en un corto plazo a una taza<br>
-de interés competitiva.'
+subtitle: '<b>Es el producto ideal para ti que deseas realizar<br>
+inversiones en un corto plazo a una tasa<br>
+de interés competitiva.</b>'
 next: next
 
 #tabs para descripción de un producto
@@ -28,7 +28,7 @@ tabs-left:
       - element-list: Disponibilidad inmediata de los fondos.
       - element-list: Genera referencias bancarias para futuros trámites.
       - element-list: Afiliación sin costo al Servicio de Bancamiga en Línea donde podrás movilizar y consultar saldos cómodamente y en cualquier momento con tan sólo una conexión a Internet.
-      - element-list: Cuentas con el servicio telefónico para efectuar tus consultas a través del 0501 TUBANCA (8822622) (0212) 8220701 o (0212) 8220702 en horario corrido de Lunes a Domingo incluyendo los días feriados.
+      - element-list: Cuentas con el servicio telefónico para efectuar tus consultas a través del 0501 TUBANCA (8822622) 0500 TUBANCA (8822622) en horario corrido de Lunes a Domingo incluyendo los días feriados.
       - element-list: Depósitos amparados por el Fondo de Garantía de Depósitos y Protección Bancaria (FOGADE).
   - id-tabs: messages8
     icon-tabs: fa fa-envelope fa-2x
@@ -64,25 +64,21 @@ tabs-left:
     icon-tabs: fa fa-cogs fa-2x
     name-tabs: Enlaces de Interes
     content-tabs:
-      - element-list: <a href="http://www.bancamiga.com"> Montos de Apertura</a>
-      - element-list: <a href="http://www.bancamiga.com">Enlace de Tarifas</a>
-      - element-list: <a href="http://www.bancamiga.com"> Enlace de Tasas </a>
-      - element-list: <a href="http://www.bancamiga.com">Enlace de Términos y condiciones</a>
-      - element-list: <a href="http://www.bancamiga.com">Enlace para formatos, planillas y solicitudes </a>
-      - element-list: <a href="http://www.bancamiga.com">Enlace Preguntas Frecuentes</a>
+      - element-list: <a href="/pdf/tarifas.pdf" >Enlace de Tarifas</a>
+      - element-list: <a href="/pdf/Tasas-y-Tarifas-Bancamiga-Julio-2015.pdf"> Enlace de Tasas </a>
 
 #Preguntas frecuentes
-title-seccion: Preguntas Frecuentes
-preguntas-frecuentes:
-  - name: ¿La Cuenta Corriente con Intereses posee intereses?
-    id1-collapse: headingOne5
-    id2-collapse: collapseOne5
-    text-collapse: Desde luego que sí..!!.
-  - name: ¿Cómo se movilizan este tipo de cuentas?
-    id1-collapse: headingTwo5
-    id2-collapse: collapseTwo5
-    text-collapse: Es movilizada a través de una chequera y con nuestra Banca por Internet Bancamiga en Línea.
-  - name: ¿Dónde Puedo adquirir este producto?
-    id1-collapse: headingThree5
-    id2-collapse: collapseThree5
-    text-collapse: En su agencia Bancamiga mas cercana.
+#title-seccion: Preguntas Frecuentes
+#preguntas-frecuentes:
+#  - name: ¿La Cuenta Corriente con Intereses posee intereses?
+#    id1-collapse: headingOne5
+#    id2-collapse: collapseOne5
+#    text-collapse: Desde luego que sí..!!.
+#  - name: ¿Cómo se movilizan este tipo de cuentas?
+#    id1-collapse: headingTwo5
+#    id2-collapse: collapseTwo5
+#    text-collapse: Es movilizada a través de una chequera y con nuestra Banca por Internet Bancamiga en Línea.
+#  - name: ¿Dónde Puedo adquirir este producto?
+#    id1-collapse: headingThree5
+#    id2-collapse: collapseThree5
+#    text-collapse: En su agencia Bancamiga mas cercana.
