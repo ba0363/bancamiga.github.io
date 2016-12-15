@@ -2,10 +2,10 @@ data-title: 'Image-1'
 data-image: '/images/aboutsliders/aboutme/about4.jpg'
 data-x-title: '80'
 data-y-title: '180'
-title: 'Tarjeta de Crédito MasterCard Bancamiga Dorada'
+title: 'Tarjeta de Crédito'
 data-x-subtitle: '80'
 data-y-subtitle: '240'
-subtitle: Concedido para para mejorar tu inversión,</br>rentabilidad,negocios,obtener capital de trabajo o la alternativa</br> que necesites.
+subtitle: ¡El efectivo paso de moda!</br>
 next: next
 
 #tabs para descripción de un producto
@@ -24,27 +24,27 @@ tabs-left:
       - element-list: Transacciones en todos los puntos de venta a nivel nacional.
       - element-list: Vencimiento del Plástico a 5 años.
       - element-list: Avances de efectivo en cajeros automáticos.
-      - element-list: La Tarjeta se emite bloqueada, debe desbloquearse llamando  al 0501Tubanca (8822622).
+      - element-list: La Tarjeta se emite bloqueada, debe desbloquearse llamando  al 0501Tubanca (8822622) y 0500Tubanca (8822622).
       - element-list: Domiciliación del pago total o parcial en tu cuenta.
       - element-list: Pago automático con cargo en cuenta de Bancamiga.
       - element-list: Facilidad para realizar el pago de tu tarjeta de crédito a través  de Bancamiga en línea y Banca Telefónica 0501Tubanca (8822622).
-      - element-list: Comodidad para gestionar y reportar requerimientos por el Centro de Atención Telefónica 0501Tubanca (8822622).
+      - element-list: Comodidad para gestionar y reportar requerimientos por el Centro de Atención Telefónica 0501Tubanca (8822622) y 0500Tubanca (8822622).
       - element-list: Depósitos amparados por el Fondo de Garantía de Depósitos y Protección Bancaria (FOGADE).
   - id-tabs: Enlaces1
     icon-tabs: fa fa-cogs fa-2x
     name-tabs: Enlaces de Interes
     content-tabs:
-      - element-list: <a href="http://www.bancamiga.com"> Montos de Apertura</a>
-      - element-list: <a href="http://www.bancamiga.com">Enlace de Tarifas</a>
-      - element-list: <a href="http://www.bancamiga.com"> Enlace de Tasas </a>
-      - element-list: <a href="http://www.bancamiga.com">Enlace de Términos y condiciones</a>
-      - element-list: <a href="http://www.bancamiga.com">Enlace para formatos, planillas y solicitudes </a>
-      - element-list: <a href="http://www.bancamiga.com">Enlace Preguntas Frecuentes</a>
+     # - element-list: <a href="http://www.bancamiga.com"> Montos de Apertura</a>
+      - element-list: <a href="https://bancamiga.github.io/pdf/tarifas.pdf">Enlace de Tarifas</a>
+      - element-list: <a href="https://bancamiga.github.io/pdf/Tasas-y-Tarifas-Bancamiga-Julio-2015.pdf"> Enlace de Tasas </a>
+     # - element-list: <a href="http://www.bancamiga.com">Enlace de Términos y condiciones</a>
+     # - element-list: <a href="http://www.bancamiga.com">Enlace para formatos, planillas y solicitudes </a>
+     # - element-list: <a href="http://www.bancamiga.com">Enlace Preguntas Frecuentes</a>
 
 #Preguntas frecuentes
-title-seccion: Preguntas Frecuentes
-preguntas-frecuentes:
-  - name: ¿La Cuenta Corriente con Intereses posee interese?
+#title-seccion: Preguntas Frecuentes
+#preguntas-frecuentes:
+ # - name: ¿La Cuenta Corriente con Intereses posee interese?
     id1-collapse: headingOne5
     id2-collapse: collapseOne5
     text-collapse: Desde luego que sí..!!.
