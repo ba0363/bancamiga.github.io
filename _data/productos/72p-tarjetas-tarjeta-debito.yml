@@ -23,7 +23,7 @@ tabs-left:
       - element-list: La Tarjeta de Débito Bancamiga te ofrece la posibilidad de acceder y administrar tus fondos a través de los cajeros automáticos y puntos de venta.
       - element-list: Tu Tarjeta de Débito Bancamiga te permitirá realizar tus pagos sin necesidad de portar dinero en efectivo a través de los puntos de venta autorizados.
       - element-list: Podrás realizar retiros por Cajeros Automáticos hasta Bs. 5.000,00 y compras por Puntos de Venta hasta Bs. 1.000.000,00
-      - element-list: Para reportar el  extravío, robo o alguna otra eventualidad con tu Tarjeta de Débito Bancamiga, tendrás la disponibilidad del canal telefónico 0501 TUBANCA  (8822622) (0212) 8220701 o (0212) 8220702,  donde podrás llamar a cualquier hora del día los 365 días del año.
+      - element-list: Para reportar el  extravío, robo o alguna otra eventualidad con tu Tarjeta de Débito Bancamiga, tendrás la disponibilidad del canal telefónico 0501 TUBANCA (8822622), donde podrás llamar a cualquier hora del día los 365 días del año.
       - element-list: Bancamiga pone a tu disposición distintos canales electrónicos para que puedas realizar tus operaciones Bancarias y movilizar tus cuentas.
       - element-list: El servicio Bancamiga en línea te permite realizar trasferencias entre cuentas del mismo titular, transferencias a otros bancos nacionales, pagos a terceros Bancamiga, transferencias a terceros en otras instituciones bancarias  y pagos de Tarjetas de Crédito de otros bancos nacionales.
       - element-list: "Acceso al Centro de Atención Telefónica 0501TUBANCA (8822622) 0500TUBANCA(8822622) desde la comodidad de tu hogar, con tan solo realizar una llamada telefónica podrás gestionar las siguientes transacciones:"
@@ -67,13 +67,13 @@ tabs-left:
       - element-list: <a href="http://www.bancamiga.com">Enlace Preguntas Frecuentes</a>
 
 #Preguntas frecuentes
-title-seccion: Preguntas Frecuentes
-preguntas-frecuentes:
-  - name: ¿La Cuenta Corriente con Intereses posee interese?
+#title-seccion: Preguntas Frecuentes
+#preguntas-frecuentes:
+#  - name: ¿La Cuenta Corriente con Intereses posee interese?
     id1-collapse: headingOne5
     id2-collapse: collapseOne5
     text-collapse: Desde luego que sí..!!.
-  - name: ¿Cómo se movilizan este tipo de cuentas?
+#  - name: ¿Cómo se movilizan este tipo de cuentas?
     id1-collapse: headingTwo5
     id2-collapse: collapseTwo5
     text-collapse: Es movilizada a través de una chequera y con nuestra Banca por Internet Bancamiga en Línea.
