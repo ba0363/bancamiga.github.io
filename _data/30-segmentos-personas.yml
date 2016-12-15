@@ -17,8 +17,8 @@ categories:
     image: '/images/segmentos/creditos.png'
   - link: '/personas-tarjetas/'
     image: '/images/segmentos/tarjetas.png'
-  - link: '/personas-canales-electronicos/'
-    image: '/images/segmentos/banca-en-linea.png'
+  #- link: '/personas-canales-electronicos/'
+   # image: '/images/segmentos/banca-en-linea.png'
 
 title-footer: 'ENCUENTRA LO QUE BUSCAS'
 subtitle-footer: 'Nuestro norte es atenderte'
