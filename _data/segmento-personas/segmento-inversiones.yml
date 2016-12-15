@@ -10,9 +10,10 @@ subtitle: '¡Tu inversión produce más!'
 
 products:
   - link: '/inversiones-certificado-ahorro/'
-    image: '/images/segmentos/Perso-Inver-Certi-Deposito.png'
-  - link: '/inversiones-certificado-deposito-a-plazo/'
     image: '/images/segmentos/Perso-Inver-Certi.png'
+    /images/segmentos/Perso-Inver-Certi.png
+  - link: '/inversiones-certificado-deposito-a-plazo/'
+    image: '/images/segmentos/Perso-Inver-Certi-Deposito.png'
   #- link: '/inversiones-deposito-plazo-fijo/'
   #  image: '/images/segmentos/remunerada.png'
 
