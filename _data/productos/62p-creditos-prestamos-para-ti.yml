@@ -45,7 +45,7 @@ tabs-left:
      # - element-list: <a href="http://www.bancamiga.com">Enlace de Términos y condiciones</a>
       #- element-list: <a href="http://www.bancamiga.com">Enlace para formatos, planillas y solicitudes </a>
      # - element-list: <a href="http://www.bancamiga.com">Enlace Preguntas Frecuentes</a>
-        mesages-footer: Estos recaudos se rigen por lo establecido en la <a href="">Resolución 119.10 "Política conozca a su cliente”</a> emitida por la SUDEBAN. Para algunos casos será necesario consignar documentos adicionales.
+       # mesages-footer: Estos recaudos se rigen por lo establecido en la <a href="">Resolución 119.10 "Política conozca a su cliente”</a> emitida por la SUDEBAN. Para algunos casos será necesario consignar documentos adicionales.
 #Preguntas frecuentes
 #title-seccion: Preguntas Frecuentes
 #preguntas-frecuentes:
