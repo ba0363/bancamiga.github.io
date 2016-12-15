@@ -25,7 +25,7 @@ tabs-left:
       - element-list: Para reportar el  extravío, robo o alguna otra eventualidad con tu Tarjeta de Débito Bancamiga, tendrás la disponibilidad del canal telefónico 0501 TUBANCA (8822622) y 0500TUBANCA(8822622), donde podrás llamar a cualquier hora del día los 365 días del año.
       - element-list: Bancamiga pone a tu disposición distintos canales electrónicos para que puedas realizar tus operaciones Bancarias y movilizar tus cuentas.
       - element-list: El servicio Bancamiga en línea te permite realizar trasferencias entre cuentas del mismo titular, transferencias a otros bancos nacionales, pagos a terceros Bancamiga, transferencias a terceros en otras instituciones bancarias  y pagos de Tarjetas de Crédito de otros bancos nacionales.
-      - element-list: "Acceso al Centro de Atención Telefónica 0501TUBANCA (8822622) y 0500TUBANCA(8822622) desde la comodidad de tu hogar, con tan solo realizar una llamada telefónica podrás gestionar las siguientes transacciones:"
+      - element-list: "Acceso al Centro de Atención Telefónica 0501 TUBANCA (8822622) y 0500 TUBANCA(8822622) desde la comodidad de tu hogar, con tan solo realizar una llamada telefónica podrás gestionar las siguientes transacciones:"
         recaudos:
           - requisito: Consulta de Saldos y Movimientos, Transferencias entre cuentas del mismo cliente, gestionar tus requerimientos en cuanto a soporte Bancamiga en Línea se refiere y obtener información de nuestros productos y servicios.
       - element-list: "Ventajas:"
@@ -38,7 +38,7 @@ tabs-left:
     icon-tabs: fa fa-envelope fa-2x
     name-tabs: Requisitos
     content-tabs:
-      - element-list: Para ver el contrato de Tarjeta de Débito y sus cláusulas haz      <a href= "http://www.bancamiga.com/admini/ckfinder/userfiles/files/CONTRATO%20DE%20TARJETA%20DE%20DEBITO%20web(1).pdf"> click</a>
+      - element-list: Para ver el contrato de Tarjeta de Débito y sus cláusulas haz      <a href= "pdf/CONTRATO DE TARJETA DE DEBITO.pdf"> click</a>
       - element-list: Poseer una cuenta corriente o de ahorro en Bancamiga.
       - element-list: Ser mayor de 18 años de edad.
       - element-list: Las cuentas deben ser movilizadas con firmas indistintas o unipersonales.
@@ -58,12 +58,12 @@ tabs-left:
     icon-tabs: fa fa-cogs fa-2x
     name-tabs: Enlaces de Interes
     content-tabs:
-      - element-list: <a href="http://www.bancamiga.com"> Montos de Apertura</a>
-      - element-list: <a href="http://www.bancamiga.com">Enlace de Tarifas</a>
-      - element-list: <a href="http://www.bancamiga.com"> Enlace de Tasas </a>
-      - element-list: <a href="http://www.bancamiga.com">Enlace de Términos y condiciones</a>
-      - element-list: <a href="http://www.bancamiga.com">Enlace para formatos, planillas y solicitudes </a>
-      - element-list: <a href="http://www.bancamiga.com">Enlace Preguntas Frecuentes</a>
+      #- element-list: <a href="http://www.bancamiga.com"> Montos de Apertura</a>
+      - element-list: <a href="https://bancamiga.github.io/pdf/tarifas.pdf">Enlace de Tarifas</a>
+      - element-list: <a href="http://https://bancamiga.github.io/pdf/Tasas-y-Tarifas-Bancamiga-Julio-2015.pdf"> Enlace de Tasas </a>
+      #- element-list: <a href="http://www.bancamiga.com">Enlace de Términos y condiciones</a>
+     # - element-list: <a href="http://www.bancamiga.com">Enlace para formatos, planillas y solicitudes </a>
+      #- element-list: <a href="http://www.bancamiga.com">Enlace Preguntas Frecuentes</a>
 
 #Preguntas frecuentes
 #title-seccion: Preguntas Frecuentes
