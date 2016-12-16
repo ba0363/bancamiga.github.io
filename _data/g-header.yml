@@ -58,8 +58,8 @@ option-menu:
     options:
       - name-option: Bancamiga en Línea
         url-option: /banca-en-linea/
-      - name-option: Bancamiga Móvil
-        url-option: /
+      #- name-option: Bancamiga Móvil
+       # url-option: /
       - name-option: SMS Bancamiga
         url-option: /sms/
       - name-option: Chequeras
