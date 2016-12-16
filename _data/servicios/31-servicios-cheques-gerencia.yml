@@ -76,12 +76,12 @@ list-about:
 
 
 
-image-about:
-  - image: /images/aboutsliders/aboutme/Empresa-cuentas.jpg
-    description: Images-1
-  - /images/aboutsliders/aboutme/Empresa-cuentas.jpg
-    description: Images-2
-  - image: /images/aboutsliders/aboutme/sliders/foto3.png
-    description: Images-3
+#image-about:
+ # - image: /images/aboutsliders/aboutme/Empresa-cuentas.jpg
+ #   description: Images-1
+ # - /images/aboutsliders/aboutme/Empresa-cuentas.jpg
+ #   description: Images-2
+#  - image: /images/aboutsliders/aboutme/sliders/foto3.png
+ #   description: Images-3
 
 next: 'container-about'
