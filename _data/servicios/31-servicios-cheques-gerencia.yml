@@ -1,5 +1,5 @@
 data-title: 'Image-1'
-data-image: '/images/aboutsliders/aboutme/about2.jpg'
+data-image: '/images/aboutsliders/aboutme/Empresa-cuentas.jpg'
 data-x-title: '80'
 data-y-title: '180'
 title: '<b>Cheques de Gerencia</b>'
@@ -77,9 +77,9 @@ list-about:
 
 
 image-about:
-  - image: /images/aboutsliders/aboutme/carrete-cheque-gerencia.png
+  - image: /images/aboutsliders/aboutme/Empresa-cuentas.jpg
     description: Images-1
-  - image: /images/aboutsliders/aboutme/carrete-cheque-gerencia-2.png
+  - /images/aboutsliders/aboutme/Empresa-cuentas.jpg
     description: Images-2
   #- image: /images/aboutsliders/aboutme/sliders/foto3.png
    # description: Images-3
