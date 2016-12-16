@@ -25,7 +25,7 @@ tabs-left:
       - element-list: Tasa fija durante el periodo de vigencia del certificado.
       - element-list: Usted podrá disponer de los fondos al vencimiento del plazo.
       - element-list: El cliente podrá solicitar la  apertura de un nuevo Certificado al finalizar el plazo convenido, con la posibilidad de cambiar el monto y plazo de inversión. Para hacerlo deberá dirigirse a una Agencia Bancamiga de su preferencia con 24 horas de anticipación a la solicitud.
-      - element-list: Cuentas con el servicio telefónico para efectuar tus consultas a través del 0501 TUBANCA (8822622),  (0212) 8220701 o (0212) 8220702 en horario corrido de Lunes a Domingo incluyendo los días feriados.
+      - element-list: Cuentas con el servicio telefónico para efectuar tus consultas a través del 0501 TUBANCA (8822622) y 0500 TUBANCA (8822622) ,  en horario corrido de Lunes a Domingo incluyendo los días feriados.
       - element-list: Producto amparado por la garantía de depósitos que constituye el Fondo de Garantía de Depósitos y Protección Bancaria (FOGADE).
       - element-list: Podrás rentabilizar tu dinero en el corto y mediano plazo.
       - element-list: Plazos convenientes para la inversión y liquidez.
@@ -41,16 +41,16 @@ tabs-left:
     icon-tabs: fa fa-cogs fa-2x
     name-tabs: Enlaces de Interes
     content-tabs:
-      - element-list: <a href="http://www.bancamiga.com"> Montos de Apertura</a>
-      - element-list: <a href="http://www.bancamiga.com">Enlace de Tarifas</a>
-      - element-list: <a href="http://www.bancamiga.com"> Enlace de Tasas </a>
-      - element-list: <a href="http://www.bancamiga.com">Enlace de Términos y condiciones</a>
-      - element-list: <a href="http://www.bancamiga.com">Enlace para formatos, planillas y solicitudes </a>
-      - element-list: <a href="http://www.bancamiga.com">Enlace Preguntas Frecuentes</a>
+     # - element-list: <a href="http://www.bancamiga.com"> Montos de Apertura</a>
+      - element-list: <a href="https://bancamiga.github.io/pdf/tarifas.pdf">Enlace de Tarifas</a>
+      - element-list: <a href="https://bancamiga.github.io/pdf/Tasas-y-Tarifas-Bancamiga-Julio-2015.pdf"> Enlace de Tasas </a>
+     # - element-list: <a href="http://www.bancamiga.com">Enlace de Términos y condiciones</a>
+     #- element-list: <a href="http://www.bancamiga.com">Enlace para formatos, planillas y solicitudes </a>
+     #- element-list: <a href="http://www.bancamiga.com">Enlace Preguntas Frecuentes</a>
 
 #Preguntas frecuentes
-title-seccion: Preguntas Frecuentes
-preguntas-frecuentes:
+#title-seccion: Preguntas Frecuentes
+#preguntas-frecuentes:
   - name: ¿La Cuenta Corriente con Intereses posee interese?
     id1-collapse: headingOne5
     id2-collapse: collapseOne5
