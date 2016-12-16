@@ -10,9 +10,9 @@ data-y-subtitle: '240'
 
 products:
   - link: '/empresas-inversiones-certificado-de-ahorro/'
-    image: '/images/segmentos/Perso-Inver-Certi.png'
+    image: '/images/segmentos/ahorro.png'
   - link: '/empresas-inversiones-certificado-deposito-plazo/'
-    image: '/images/segmentos/Perso-Inver-Certi-Deposito.png'
+    image: '/images/segmentos/moneda-extranjera.png'
 #  - link: '/empresas-inversiones-deposito-plazo-fijo/'
 #    image: '/images/segmentos/remunerada.png'
 #  - link: '/empresas-inversiones-deposito-a-vista/'
