@@ -2,10 +2,10 @@ data-title: 'Image-1'
 data-image: '/images/aboutsliders/aboutme/about.jpg'
 data-x-title: '80'
 data-y-title: '180'
-title: 'SMS Bancamiga'
+title: '<b> SMS Bancamiga </b>'
 data-x-subtitle: '80'
 data-y-subtitle: '240'
-subtitle: '¡Pensando en tu seguridad!'
+subtitle: '<b>¡Pensando en tu seguridad!</b>'
 
 
 text-title: "SMS Bancamiga"
