@@ -1,5 +1,5 @@
 data-title: 'Image-1'
-data-image: '/images/aboutsliders/aboutme/about2.jpg'
+data-image: '/images/aboutsliders/aboutme/Empresa-cuentas.jpg'
 data-x-title: '80'
 data-y-title: '180'
 title: 'Chequeras'
@@ -21,11 +21,11 @@ list-about:
   - item-description: Los cheques podrán ser conformados llamando a nuestro Centro de Atención Bancamiga a través del 0501 TUBANCA (8822622).
 
 image-about:
-  - image: /images/aboutsliders/aboutme/about2.jpg
+  - image: /images/aboutsliders/aboutme/Empresa-cuentas.jpg
     description: Images-1
-  - image: /images/aboutsliders/aboutme/about2.jpg
+  - image: /images/aboutsliders/aboutme/Empresa-cuentas.jpg
     description: Images-2
-  - image: /images/aboutsliders/aboutme/about2.jpg
+  - image: /images/aboutsliders/aboutme/Empresa-cuentas.jpg
     description: Images-3
 
 next: 'container-about'
