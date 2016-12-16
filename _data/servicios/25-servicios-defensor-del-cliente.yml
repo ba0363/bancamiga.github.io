@@ -1,5 +1,5 @@
 data-title: 'Image-1'
-data-image: '/images/aboutsliders/aboutme/about.jpg'
+data-image: '/images/aboutsliders/aboutme/Empresa-cuentas.jpg'
 data-x-title: '80'
 data-y-title: '180'
 title: 'Defensor del Cliente y Usuario Bancario'
@@ -27,11 +27,11 @@ list-about:
   - item-description: Las decisiones de la institución, respecto a conceder o no un préstamo; efectuar o no cualquier contrato, o una operación o servicio concreto con personas determinadas; así como, sus condiciones o modalidades.  
 
 image-about:
-  - image: /images/aboutsliders/aboutme/sliders/foto1.png
+  - image: /images/aboutsliders/aboutme/Empresa-cuentas.jpg
     description: Images-1
-  - image: /images/aboutsliders/aboutme/sliders/foto2.png
+  - image: /images/aboutsliders/aboutme/Empresa-cuentas.jpg
     description: Images-2
-  - image: /images/aboutsliders/aboutme/sliders/foto3.png
+  - image: /images/aboutsliders/aboutme/Empresa-cuentas.jpg
     description: Images-3
 
 next: 'container-about'
