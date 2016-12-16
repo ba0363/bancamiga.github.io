@@ -19,8 +19,8 @@ list-about:
     item-description: Debe ser Cliente de Bancamiga y estar afiliado al servicio Bancamiga en Línea.
   - item-description: Tener registrado tu número de teléfono celular al momento de afiliarte a nuestro servicio Bancamiga En Línea.
 image-about:
-  - image: /images/aboutsliders/aboutme/carrete-sms.png
-    description: Images-1
+ # - image: /images/aboutsliders/aboutme/carrete-sms.png
+  #  description: Images-1
   - image: /images/aboutsliders/aboutme/carrete-sms-2.png
     description: Images-2
   - image: /images/aboutsliders/aboutme/carrete-sms-3.png
