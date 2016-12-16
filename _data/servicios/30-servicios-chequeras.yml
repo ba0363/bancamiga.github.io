@@ -1,5 +1,5 @@
 data-title: 'Image-1'
-data-image: '/images/aboutsliders/aboutme/about.jpg'
+data-image: '/images/aboutsliders/aboutme/maxifoto-chequeras.jpg'
 data-x-title: '80'
 data-y-title: '180'
 title: 'Chequeras'
@@ -22,11 +22,11 @@ list-about:
       - sub-items: "<b>Encriptación de Datos:</b> Protegemos el acceso al sistema, gracias al reconocimiento y personalización de todos nuestros clientes, mediante la solicitud de usuario y contraseña. Adicionalmente, el bloqueo de acceso se activa automáticamente ante repetidos errores de ingreso de clave de usuario y contraseña. Además, el servicio contabiliza el tiempo de conexión de sus usuarios. Esto significa que los que no hayan realizado ningún tipo de actividad en un tiempo prefijado, serán automáticamente desconectados de la sesión. Esta característica de seguridad, evita mantener el servicio activo cuando el usuario olvida desconectarse del mismo. <br><br>"
   - title: Siempre toma en cuenta estas recomendaciones de seguridad
     item-description: Bajo ninguna circunstancia, Bancamiga Banco Microfinanciero, C.A. solicitará tus claves secretas, números de cuenta u otra información confidencial por correo electrónico, teléfono celular o cualquier otro canal de información.
-  - item-description: Los links o vínculos contenidos en los correos electrónicos, pueden llevarte a un sitio web falso, aunque parezca verdadero, evita hacer clic sobre ellos. En caso que esto ocurra, te solicitamos no responder y contactarse con nosotros al Centro de Atención Bancamiga, llamando al 0501 tubanca (8822622).
+  - item-description: Los links o vínculos contenidos en los correos electrónicos, pueden llevarte a un sitio web falso, aunque parezca verdadero, evita hacer clic sobre ellos. En caso que esto ocurra, te solicitamos no responder y contactarse con nosotros al Centro de Atención Bancamiga, llamando al 0501 tubanca (8822622) y 0500 tubanca (8822622).
   - item-description: No utilices claves secretas fáciles de conocer, recordar o adivinar como fechas de nacimiento, direcciones u otros.
   - item-description: Deberás elegir y renovar periódicamente una imagen personalizada, la cual será mostrada cada vez que desees acceder a nuestro servicio web Bancamiga en Línea.
-  - item-description: Si recibes correos electrónicos, mensajes de texto SMS o llamadas telefónicas sospechosas, haz caso omiso de las mismas y repórtalas, llamando al 0501 tubanca (8822622) o dirígete de inmediato a la agencia Bancamiga más cercana.
-  - item-description: Si recibes correos electrónicos, mensajes de texto SMS o llamadas telefónicas sospechosas, haz caso omiso de las mismas y repórtalas, llamando al 0501 tubanca (8822622) o dirígete de inmediato a la agencia Bancamiga más cercana.
+  - item-description: Si recibes correos electrónicos, mensajes de texto SMS o llamadas telefónicas sospechosas, haz caso omiso de las mismas y repórtalas, llamando al 0501 tubanca (8822622) y 0500 tubanca (8822622) o dirígete de inmediato a la agencia Bancamiga más cercana.
+  - item-description: Si recibes correos electrónicos, mensajes de texto SMS o llamadas telefónicas sospechosas, haz caso omiso de las mismas y repórtalas, llamando al 0501 tubanca (8822622) y 0500 tubanca (8822622) o dirígete de inmediato a la agencia Bancamiga más cercana.
   - item-description: No divulgues tu contraseña de Banca en línea y cámbiala periódicamente para evitar que sea descubierta por personas fraudulentas.
   - item-description: Ingresa siempre a www.bancamiga.com ingresando directamente la dirección en el navegador sin hacer uso de un buscador web comercial.
   - item-description: Puedes verificar que estás conectado al servidor del Banco haciendo clic en el logo de Verisign.
@@ -77,11 +77,11 @@ list-about:
 
 
 image-about:
-  - image: /images/aboutsliders/aboutme/sliders/foto1.png
+  - image: /images/aboutsliders/aboutme/carrete-1 (2).png
     description: Images-1
-  - image: /images/aboutsliders/aboutme/sliders/foto2.png
+  - image: /images/aboutsliders/aboutme/carrete-1 (3).png
     description: Images-2
-  - image: /images/aboutsliders/aboutme/sliders/foto3.png
-    description: Images-3
+  #- image: /images/aboutsliders/aboutme/sliders/foto3.png
+   # description: Images-3
 
 next: 'container-about'
