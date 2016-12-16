@@ -1,5 +1,5 @@
 data-title: 'Image-1'
-data-image: '/images/aboutsliders/aboutme/about.jpg'
+data-image: '/images/aboutsliders/aboutme/Empresa-cuentas'
 data-x-title: '80'
 data-y-title: '180'
 title: 'Unidad de Atención al Cliente'
@@ -17,11 +17,11 @@ list-about:
   - title: Canales de Contacto
     item-description: Cuentas con el servicio telefónico para efectuar tus consultas a través del 0501 TUBANCA (8822622), (0212) 8220701 o (0212) 8220702 en horario corrido de Lunes a Domingo las 24 horas del día. Además puedes realizar tus transacciones de una forma cómoda, rápida y segura, conectándose a nuestra página web www.bancamiga.com mediante nuestro servicio Bancamiga en línea.
 image-about:
-  - image: /images/aboutsliders/aboutme/sliders/foto1.png
+  - image: /images/aboutsliders/aboutme/Empresa-cuentas
     description: Images-1
-  - image: /images/aboutsliders/aboutme/sliders/foto2.png
+  - image: /images/aboutsliders/aboutme/Empresa-cuentas
     description: Images-2
-  - image: /images/aboutsliders/aboutme/sliders/foto3.png
+  - image: /images/aboutsliders/aboutme/Empresa-cuentas
     description: Images-3
 
 next: 'container-about'
