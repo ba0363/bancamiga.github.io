@@ -5,7 +5,8 @@ data-y-title: '180'
 title: 'Cuenta de Ahorros'
 data-x-subtitle: '80'
 data-y-subtitle: '240'
-subtitle: Concedido para para mejorar tu inversión,</br>rentabilidad,negocios,obtener capital de trabajo o la alternativa</br> que necesites.
+subtitle: <b> Puede ser movilizada a través de una chequera <br>
+y nuestra banca por internet Bancamiga en Línea<br>'
 next: next
 
 #tabs para descripción de un producto
@@ -28,7 +29,7 @@ tabs-left:
       - element-list: Seguridad en el pago a proveedores y de terceros, ya que al usar cheques se reduce el riesgo de manejo de efectivo.
       - element-list: Chequeras disponibles según tu preferencia de 25 o 50 cheques.
       - element-list: Afiliación sin costo al Servicio de Bancamiga en Línea donde podrás movilizar y consultar saldos cómodamente y en cualquier momento con tan sólo una conexión a Internet.
-      - element-list: Cuentas con el servicio telefónico para efectuar tus consultas a través del 0501 TUBANCA (8822622) (0212) 8220701 o (0212) 8220702 en horario corrido de Lunes a Domingo incluyendo los días feriados.
+      - element-list: Cuentas con el servicio telefónico para efectuar tus consultas a través del 0501 TUBANCA (8822622) y 0500 TUBANCA (8822622)  en horario corrido de Lunes a Domingo incluyendo los días feriados.
       - element-list: Depósitos amparados por el Fondo de Garantía de Depósitos y Protección Bancaria (FOGADE).
   - id-tabs: messages8
     icon-tabs: fa fa-envelope fa-2x
@@ -52,16 +53,16 @@ tabs-left:
     icon-tabs: fa fa-cogs fa-2x
     name-tabs: Enlaces de Interes
     content-tabs:
-      - element-list: <a href="http://www.bancamiga.com"> Montos de Apertura</a>
-      - element-list: <a href="http://www.bancamiga.com">Enlace de Tarifas</a>
-      - element-list: <a href="http://www.bancamiga.com"> Enlace de Tasas </a>
-      - element-list: <a href="http://www.bancamiga.com">Enlace de Términos y condiciones</a>
-      - element-list: <a href="http://www.bancamiga.com">Enlace para formatos, planillas y solicitudes </a>
-      - element-list: <a href="http://www.bancamiga.com">Enlace Preguntas Frecuentes</a>
+    #- element-list: <a href="http://www.bancamiga.com"> Montos de Apertura</a>
+      - element-list: <a href="https://bancamiga.github.io/pdf/tarifas.pdf">Enlace de Tarifas</a>
+      - element-list: <a href="https://bancamiga.github.io/pdf/Tasas-y-Tarifas-Bancamiga-Julio-2015.pdf"> Enlace de Tasas </a>
+      #- element-list: <a href="http://www.bancamiga.com">Enlace de Términos y condiciones</a>
+      #- element-list: <a href="http://www.bancamiga.com">Enlace para formatos, planillas y solicitudes </a>
+     # - element-list: <a href="http://www.bancamiga.com">Enlace Preguntas Frecuentes</a>
 
 #Preguntas frecuentes
-title-seccion: Preguntas Frecuentes
-preguntas-frecuentes:
+#title-seccion: Preguntas Frecuentes
+#preguntas-frecuentes:
   - name: ¿La Cuenta Corriente con Intereses posee interese?
     id1-collapse: headingOne5
     id2-collapse: collapseOne5
