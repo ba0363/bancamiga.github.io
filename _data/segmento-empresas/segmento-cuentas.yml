@@ -10,7 +10,7 @@ data-y-subtitle: '240'
 
 products:
   - link: '/empresas-cuentas-cuenta-corriente/'
-    image: '/images/segmentos/inversiones.png'
+    image: '/images/segmentos/cuenta-corriente-con-intereses.png'
 #  - link: '/empresas-cuentas-cuenta-ahorro/'
 #    image: '/images/segmentos/ahorro.png'
   - link: '/empresas-cuentas-cuenta-no-remunerada/'
