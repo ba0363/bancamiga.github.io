@@ -13,11 +13,11 @@ text-about: 'Mediante este canal, puedes efectuar diversas transacciones bancari
 
 
 image-about:
-  - image: /images/aboutsliders/aboutme/sliders/foto1.png
+  - image: /images/aboutsliders/aboutme/carrete-corporativo-1.png
     description: Images-1
-  - image: /images/aboutsliders/aboutme/sliders/foto2.png
+  - image: /images/aboutsliders/aboutme/carrete-corporativo-2.png
     description: Images-2
-  - image: /images/aboutsliders/aboutme/sliders/foto3.png
+  - image: /images/aboutsliders/aboutme/carrete-corporativo-3.png
     description: Images-3
 
 next: 'container-about'
