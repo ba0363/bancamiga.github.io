@@ -10,7 +10,7 @@ button-text: "Regresar"
 
 button1-text: "Consulta de TDC"
 button2-text: "Bancamiga en línea"
-button2-url: "http://enobasistemas.com/banca_web_synergy/#/access/login"
+#button2-url: "http://enobasistemas.com/banca_web_synergy/#/access/login"
 
 button1-text: "Consulta"
 button2-text: "Bancamiga en línea"
