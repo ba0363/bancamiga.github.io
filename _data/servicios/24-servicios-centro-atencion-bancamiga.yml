@@ -17,12 +17,12 @@ En Bancamiga siempre cuentas con servicios personalizados y de calidad. Visita
 
 #list-about:
  # - title: Ventajas
-    item-description: Ideal para que movilices tu dinero o el de tu negocio de forma segura.
-  - item-description: Disfruta de este servicio cada vez que lo necesites como medio de pago seguro y confiable con cargo a tu cuenta
-  - item-description: La emisión de cheques de gerencia se rige de acuerdo a las estipulaciones legales y de seguridad emitidas por el Sistema Financiero y por el Banco a tales efectos.
-  - item-description: Los cheques emitidos podrán ser depositados en cualquiera de las instituciones financieras, los plazos de disponibilidad de fondos dependerán del resultado del proceso de compensación.
-  - item-description: Los clientes podrán cobrar los Cheques de Gerencia directamente a través de la Red de Agencias de Bancamiga.
-  - item-description: Los cheques podrán ser conformados llamando a nuestro Centro de Atención Bancamiga a través del 0501 TUBANCA (8822622).
+   # item-description: Ideal para que movilices tu dinero o el de tu negocio de forma segura.
+  #- item-description: Disfruta de este servicio cada vez que lo necesites como medio de pago seguro y confiable con cargo a tu cuenta
+  #- item-description: La emisión de cheques de gerencia se rige de acuerdo a las estipulaciones legales y de seguridad emitidas por el Sistema Financiero y por el Banco a tales efectos.
+  #- item-description: Los cheques emitidos podrán ser depositados en cualquiera de las instituciones financieras, los plazos de disponibilidad de fondos dependerán del resultado del proceso de compensación.
+  #- item-description: Los clientes podrán cobrar los Cheques de Gerencia directamente a través de la Red de Agencias de Bancamiga.
+  #- item-description: Los cheques podrán ser conformados llamando a nuestro Centro de Atención Bancamiga a través del 0501 TUBANCA (8822622).
 
 image-about:
   - image: /images/aboutsliders/aboutme/sliders/foto1.png
