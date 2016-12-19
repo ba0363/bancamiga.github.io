@@ -53,8 +53,8 @@ tabs:
           - requisito: Carta de autorización por parte de la empresa.
           - requisito: Cédula del representante legal de la empresa.
           - requisito: Firma de la Planilla de Solicitud del Servicio.
-  - id-tabs: messages10
-    icon-tabs: fa fa-envelope fa-2x
+  #- id-tabs: messages10
+   # icon-tabs: fa fa-envelope fa-2x
     #name-tabs: Valores
     #content-tabs:
       #- element-list: Integridad
