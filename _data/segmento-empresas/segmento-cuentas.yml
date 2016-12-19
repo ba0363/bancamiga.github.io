@@ -14,7 +14,7 @@ products:
 #  - link: '/empresas-cuentas-cuenta-ahorro/'
 #    image: '/images/segmentos/ahorro.png'
   - link: '/empresas-cuentas-cuenta-no-remunerada/'
-    image: '/images/segmentos/no-remunerada.png'
+    image: '/images/segmentos/iconos-cuenta-corriente.png'
 #  - link: '/empresas-cuentas-cuenta-electronica/'
 #    image: '/images/segmentos/banca-en-linea.png'
 #  - link: '/empresas-cuentas-cuenta-moneda-extanjera/'
