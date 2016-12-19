@@ -2,7 +2,7 @@ data-title: 'Image-1'
 data-image: '/images/aboutsliders/aboutme/about4.jpg'
 data-x-title: '80'
 data-y-title: '180'
-title: 'Cuenta no remunerada'
+title: 'Cuenta Corriente'
 data-x-subtitle: '80'
 data-y-subtitle: '240'
 subtitle: 'Tienes disponibilidad inmediata de los fondos,<br> ideal para realizar tus pagos cómodamente.'
@@ -14,7 +14,7 @@ tabs-left:
     icon-tabs: fa fa-home fa-2x
     name-tabs: Descripción
     content-tabs:
-      - element-list: La Cuenta No Remunerada es un instrumento financiero de alta movilidad transaccional con disponibilidad inmediata de los fondos, ideal para realizar tus pagos cómodamente a través de cheques Bancamiga, además, si tienes un crédito con Bancamiga puedes depositar tu cuota y la descontaremos en la fecha del vencimiento, sin necesidad de trasladarte a una agencia.</br><h4 class="titleDescription mt40">Abre una Cuenta Corriente hoy en tu agencia Bancamiga más cercana!</h4>
+      - element-list: La Cuenta Corriente es un instrumento financiero de alta movilidad transaccional con disponibilidad inmediata de los fondos, ideal para realizar tus pagos cómodamente a través de cheques Bancamiga, además, si tienes un crédito con Bancamiga puedes depositar tu cuota y la descontaremos en la fecha del vencimiento, sin necesidad de trasladarte a una agencia.</br><h4 class="titleDescription mt40">Abre una Cuenta Corriente hoy en tu agencia Bancamiga más cercana!</h4>
   - id-tabs: caracteristica1
     icon-tabs: fa fa-user fa-2x
     name-tabs: Características
