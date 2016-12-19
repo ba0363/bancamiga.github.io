@@ -18,8 +18,8 @@ image-about:
     description: Images-1
   - image: /images/aboutsliders/aboutme/sliders/foto2.png
     description: Images-2
-  - image: /images/aboutsliders/aboutme/sliders/foto3.png
-    description: Images-3
+ # - image: /images/aboutsliders/aboutme/sliders/foto3.png
+  #  description: Images-3
 
 next: 'container-about'
 
