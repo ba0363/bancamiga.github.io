@@ -15,7 +15,7 @@ button2-url: "http://enobasistemas.com/banca_web_synergy/#/access/login"
 button1-text: "Consulta"
 button2-text: "Bancamiga en línea"
 button2-text-modal: "Continuar"
-button2-url: "https://online.bancamiga.com/CGI-BIN/lansaweb?wam=USHMAIN&webrtn=Login&ml=LANSA:XHTML&part=DEV&lang=SPN"
+button2-url: "target="_blank>https://online.bancamiga.com/CGI-BIN/lansaweb?wam=USHMAIN&webrtn=Login&ml=LANSA:XHTML&part=DEV&lang=SPN"
 link-synergy: "http://www.synergy-gb.com"
 
 
