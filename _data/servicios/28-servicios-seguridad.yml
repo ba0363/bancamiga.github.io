@@ -71,15 +71,6 @@ list-about:
       - sub-items: "No confíes en los populares programas 'gratuitos' de archivos compartidos de música y video, y asegúrate de verificar perfectamente todo el software que incluyen."
       - sub-items: "Nunca hagas clic en opciones como 'OK' o 'Acepto' para cerrar una ventana. Utiliza siempre la 'X' roja que se encuentra en la esquina de la ventana."
 
- - item-description: "<b>BOT</b><br>"
-    options:
-      - sub-items: "Los bots se han consolidado como una de las principales amenazas en Internet. Los bots – contracción de la palabra robots – son programas que dentro de las computadoras, permiten que el sistema sea controlado remotamente sin el conocimiento ni consentimiento expreso del usuario. Dichos programas pueden llegar a tu computadora por distintos medios, como la ejecución de un link en un mail o la ejecución de un archivo adjunto a éste.<br><br>"
-  - item-description: "<b>¿Cómo evitarlo?</b><br>"
-    options:
-      - sub-items: "Mantener siempre actualizados los distintos softwares instalados en la computadora equipo, por ejemplo: sistema operativo, software antivirus, software de correo electrónico, chat, entre otros."
-      - sub-items: "Jamás ejecutar un archivo anexado o un enlace dentro de un mensaje de correo de un remitente sospechoso o no conocido."
-      - sub-items: "Evitar conectarse y unirse a servicios de Mensajería Instantánea como el MSN Messenger, el ICQ, Yahoo, Messenger o a algún canal de Chat desconocido."
-     
 
 
 
