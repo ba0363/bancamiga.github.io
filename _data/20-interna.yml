@@ -56,4 +56,4 @@ tabs:
     name-tabs: Responsabilidad Social
     content-tabs:
       - element-list: "<a href='/unicef/'>UNICEF</a>"
-      - element-list: "<a href='http://tatuandosonrisas.org/'>Tatuando Sonrisas</a>"
+      - element-list: "<a href='/tatuando-sonrisas'>Tatuando Sonrisas</a>"
