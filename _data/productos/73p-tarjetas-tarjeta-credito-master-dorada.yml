@@ -5,7 +5,7 @@ data-y-title: '180'
 title: 'Tarjeta de Crédito'
 data-x-subtitle: '80'
 data-y-subtitle: '240'
-subtitle: ¡El efectivo paso de moda!</br>
+subtitle: ¡Te ofrecemos más meses de financiamiento!</br>
 next: next
 
 #tabs para descripción de un producto
@@ -24,10 +24,10 @@ tabs-left:
       - element-list: Transacciones en todos los puntos de venta a nivel nacional.
       - element-list: Vencimiento del Plástico a 5 años.
       - element-list: Avances de efectivo en cajeros automáticos.
-      - element-list: La Tarjeta se emite bloqueada, debe desbloquearse llamando  al 0501Tubanca (8822622) y 0500Tubanca (8822622).
+      - element-list: La Tarjeta se emite bloqueada, debe desbloquearse llamando a nuestro Centro de Atención Telefónica.
       - element-list: Domiciliación del pago total o parcial en tu cuenta.
       - element-list: Pago automático con cargo en cuenta de Bancamiga.
-      - element-list: Facilidad para realizar el pago de tu tarjeta de crédito a través  de Bancamiga en línea y Banca Telefónica 0501Tubanca (8822622).
+      - element-list: Facilidad para realizar el pago de tu tarjeta de crédito a través  de Bancamiga en línea y Banca Telefónica.
       - element-list: Comodidad para gestionar y reportar requerimientos por el Centro de Atención Telefónica 0501Tubanca (8822622) y 0500Tubanca (8822622).
       - element-list: Depósitos amparados por el Fondo de Garantía de Depósitos y Protección Bancaria (FOGADE).
   - id-tabs: Enlaces1
