@@ -16,7 +16,7 @@ button1-text: "Consulta"
 button2-text: "Bancamiga en línea"
 button2-text-modal: "Continuar"
 button2-url: "https://online.bancamiga.com/CGI-BIN/lansaweb?wam=USHMAIN&webrtn=Login&ml=LANSA:XHTML&part=DEV&lang=SPN" 
-button2-target: "_parent" 
+button2-formtarget: "_parent" 
 link-synergy: "http://www.synergy-gb.com"
 
 
