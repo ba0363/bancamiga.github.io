@@ -19,8 +19,8 @@ list-about:
 image-about:
   - image: /images/aboutsliders/aboutme/Corporativo1-540x365-06.jpg
     description: Images-1
-  - image: /images/aboutsliders/aboutme/Empresa-cuentas.jpg
-    description: Images-2
+  #- image: /images/aboutsliders/aboutme/Empresa-cuentas.jpg
+   # description: Images-2
   #- image: /images/aboutsliders/aboutme/Empresa-cuentas
    # description: Images-3
 
