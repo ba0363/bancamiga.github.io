@@ -55,5 +55,5 @@ tabs:
     icon-tabs: fa fa-child fa-2x
     name-tabs: Responsabilidad Social
     content-tabs:
-      - element-list: "<a href='unicef'>UNICEF</a>"
+      - element-list: "<a href='/unicef/'>UNICEF</a>"
       - element-list: "<a href='http://tatuandosonrisas.org/'>Tatuando Sonrisas</a>"
