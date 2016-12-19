@@ -12,7 +12,7 @@ products:
   - link: '/personas-cuenta-ahorros/'
     image: '/images/segmentos/ahorro.png'
   - link: '/personas-cuenta-no-remunerada/'
-    image: '/images/segmentos/no-remunerada.png'
+    image: '/images/segmentos/iconos-cuenta-corriente.png'
   - link: '/personas-cuenta-corriente-interes/'
     image: '/images/segmentos/cuenta-corriente-con-intereses.png'
   #- link: '/personas-cuenta-electronica/'
