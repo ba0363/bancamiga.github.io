@@ -15,8 +15,8 @@ También, puedes realizar tus transacciones de una forma cómoda, rápida y segu
 
 En Bancamiga siempre cuentas con servicios personalizados y de calidad. Visita cualquiera de nuestras Agencias para obtener mayor información sobre las posibilidades que te permitirán invertir efectivamente tu dinero."
 
-list-about:
-  - title: Ventajas
+#list-about:
+ # - title: Ventajas
     item-description: Ideal para que movilices tu dinero o el de tu negocio de forma segura.
   - item-description: Disfruta de este servicio cada vez que lo necesites como medio de pago seguro y confiable con cargo a tu cuenta
   - item-description: La emisión de cheques de gerencia se rige de acuerdo a las estipulaciones legales y de seguridad emitidas por el Sistema Financiero y por el Banco a tales efectos.
