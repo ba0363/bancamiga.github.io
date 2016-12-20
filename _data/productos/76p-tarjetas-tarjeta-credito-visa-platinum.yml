@@ -19,17 +19,17 @@ tabs-left:
     icon-tabs: fa fa-user fa-2x
     name-tabs: Características
     content-tabs:
-       - element-list: La Tarjeta de Crédito Bancamiga es un producto que está dirigido a personas que hayan sido beneficiarias de un Microcrédito otorgado por la institución.
-       - element-list: Tasa de Interés al 28%.
-       - element-list: Transacciones en todos los puntos de venta a nivel nacional.
-       - element-list: Vencimiento del Plástico a 5 años.
-       - element-list: Avances de efectivo en cajeros automáticos.
-       - element-list: La Tarjeta se emite bloqueada, debe desbloquearse llamando a nuestro Centro de Atención Telefónica.
-       - element-list: Domiciliación del pago total o parcial en tu cuenta.
-       - element-list: Pago automático con cargo en cuenta de Bancamiga.
-       - element-list: Facilidad para realizar el pago de tu tarjeta de crédito a través  de Bancamiga en línea y Banca Telefónica.
-      - element-list: Comodidad para gestionar y reportar requerimientos por el Centro de Atención Telefónica 0501Tubanca (8822622) y 0500Tubanca (8822622).
-       - element-list: Depósitos amparados por el Fondo de Garantía de Depósitos y Protección Bancaria (FOGADE)..
+      - element-list: La Tarjeta de Crédito Bancamiga es un producto que está dirigido a personas que hayan sido beneficiarias de un Microcrédito otorgado por la institución.
+       - element-list: Los intereses son calculados sobre saldos diarios, según tabla referencial y abonados a fin de mes.<a href=""> Ver tasa de interés</a>
+       - element-list: Cheques aceptados a nivel nacional.
+       - element-list: Emisión de las primeras dos chequeras sin costo.<a href=""> Ver comisiones</a>
+       - element-list: Permite realizar transacciones ilimitadas.
+       - element-list: Movilidad a través de cheques, depósitos y retiros de efectivo en cualquiera de las agencias de  Bancamiga y a través de nuestra Banca por Internet Bancamiga en Línea.
+       - element-list: Seguridad en el pago a proveedores y de terceros, ya que al usar cheques se reduce el riesgo de manejo de efectivo.
+       - element-list: Chequeras disponibles según tu preferencia de 25 o 50 cheques.
+       - element-list: Afiliación sin costo al Servicio de Bancamiga en Línea donde podrás movilizar y consultar saldos cómodamente y en cualquier momento con tan sólo una conexión a Internet.
+       - element-list: Cuentas con el servicio telefónico para efectuar tus consultas a través del 0501 TUBANCA (8822622) (0212) 8220701 o (0212) 8220702 en horario corrido de Lunes a Domingo incluyendo los días feriados.
+       - element-list: Depósitos amparados por el Fondo de Garantía de Depósitos y Protección Bancaria (FOGADE).
   - id-tabs: messages8
     icon-tabs: fa fa-envelope fa-2x
    name-tabs: Requisitos
