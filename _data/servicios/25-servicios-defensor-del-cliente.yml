@@ -25,7 +25,7 @@ list-about:
     item-description: Los derivados de las relaciones entre instituciones y sus empleados.
   - item-description: Los derivados de las relaciones entre instituciones y sus accionistas.
   - item-description: Las decisiones de la institución, respecto a conceder o no un préstamo; efectuar o no cualquier contrato, o una operación o servicio concreto con personas determinadas; así como, sus condiciones o modalidades.  
-  - mesages-footer: <a href="/pdf/Reglamento Defensor del Cliente y Usuario Bancario.pdf">Reglamento del Defensor del Cliente</a> 
+  - item-description: <b><a href="/pdf/Reglamento Defensor del Cliente y Usuario Bancario.pdf">Reglamento del Defensor del Cliente</a></b>
 
 image-about:
   - image: /images/aboutsliders/aboutme/Empresa-cuentas.jpg
