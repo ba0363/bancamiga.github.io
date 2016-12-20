@@ -47,7 +47,7 @@ tabs-left:
       - element-list: Una (1) Referencia bancaria con sello húmedo del banco emisor con vigencia no mayor a tres (3) meses de emisión.
       - element-list: Una (1) Referencia Comercial (si posee).
       - element-list: Copia de un (1) Recibo de servicio (agua, luz, teléfono o gas) a nombre del titular con la dirección de residencia o constancia de residencia emitida por la Jefatura Civil, Junta de Condominio o Consejo Comunal, con vigencia no mayor a tres (3) meses de emisión.
-        mesages-footer: Estos recaudos se rigen por lo establecido en la <a href="/pagina-comercial-bancamiga/pdf/resolucion.pdf">Resolución 119.10 "Política conozca a su cliente”</a> emitida por la SUDEBAN. Para algunos casos será necesario consignar documentos adicionales.
+        mesages-footer: Estos recaudos se rigen por lo establecido en la <a href="/pagina-comercial-bancamiga/pdf/RESOLUCION119-10.pdf">Resolución 119.10 "Política conozca a su cliente”</a> emitida por la SUDEBAN. Para algunos casos será necesario consignar documentos adicionales.
   - id-tabs: Enlaces1
     icon-tabs: fa fa-cogs fa-2x
     name-tabs: Enlaces de Interes
