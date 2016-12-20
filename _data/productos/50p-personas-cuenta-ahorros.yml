@@ -60,7 +60,7 @@ tabs-left:
             requisito: Representante Legal: Los mismos recaudos que se solicitan para las Cuentas de Ahorro.
           - requisito: Acta de Nacimiento (a los fines de verificar la filiación entre el niño, niña, adolescente y el representante legal)
           - requisito: En caso de que el representante legal no sea su padre o madre, deberá consignar la decisión emitida por un Tribunal de la República Bolivariana de Venezuela, con competencia en materia de protección a los niños, niñas y adolescentes donde se designe al representante o tutor.
-          - requisito: <a>Estos recaudos se rigen por lo establecido en la <a href="/pdf/RESOLUCION119-10.pdf">Resolución 119.10 "Política conozca a su cliente”</a> emitida por la SUDEBAN. Para algunos casos será necesario consignar documentos adicionales.</a>
+          - requisito: <b>Estos recaudos se rigen por lo establecido en la <a href="/pdf/RESOLUCION119-10.pdf">Resolución 119.10 "Política conozca a su cliente”</a> emitida por la SUDEBAN. Para algunos casos será necesario consignar documentos adicionales.</b>
   - id-tabs: Enlaces1
     icon-tabs: fa fa-cogs fa-2x
     name-tabs: Enlaces de Interes
