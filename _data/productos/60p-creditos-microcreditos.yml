@@ -50,7 +50,7 @@ tabs-left:
     icon-tabs: fa fa-cogs fa-2x
     name-tabs: Enlaces de Interes
     content-tabs:
-      - element-list: <a href="http://www.bancamiga.github.io/pdf/Solicitud-de-Credito-para-Persona-Natural.pdf"> Planilla de Solicitud</a>
+      - element-list: <a href="http://bancamiga.github.io/pdf/Solicitud-de-Credito-para-Persona-Natural.pdf"> Planilla de Solicitud</a>
       - element-list: <a href="https://bancamiga.github.io/pdf/tarifas.pdf">Enlace de Tarifas</a>
       - element-list: <a href="https://bancamiga.github.io/pdf/Tasas-y-Tarifas-Bancamiga-Julio-2015.pdf"> Enlace de Tasas </a>
       #- element-list: <a href="http://www.bancamiga.com">Enlace de Términos y condiciones</a>
