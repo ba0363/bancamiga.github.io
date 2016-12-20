@@ -65,15 +65,15 @@ tabs-left:
 #Preguntas frecuentes
 #title-seccion: Preguntas Frecuentes
 #preguntas-frecuentes:
-  - name: ¿La Cuenta Corriente con Intereses posee intereses?
-    id1-collapse: headingOne5
-    id2-collapse: collapseOne5
-    text-collapse: Desde luego que sí..!!.
-  - name: ¿Cómo se movilizan este tipo de cuentas?
-    id1-collapse: headingTwo5
-    id2-collapse: collapseTwo5
-    text-collapse: Es movilizada a través de una chequera y con nuestra Banca por Internet Bancamiga en Línea.
-  - name: ¿Dónde Puedo adquirir este producto?
-    id1-collapse: headingThree5
-    id2-collapse: collapseThree5
-    text-collapse: En su agencia Bancamiga mas cercana.
+ # - name: ¿La Cuenta Corriente con Intereses posee intereses?
+  #  id1-collapse: headingOne5
+   # id2-collapse: collapseOne5
+    # text-collapse: Desde luego que sí..!!.
+  #- name: ¿Cómo se movilizan este tipo de cuentas?
+   # id1-collapse: headingTwo5
+   # id2-collapse: collapseTwo5
+   # text-collapse: Es movilizada a través de una chequera y con nuestra Banca por Internet Bancamiga en Línea.
+  #- name: ¿Dónde Puedo adquirir este producto?
+   # id1-collapse: headingThree5
+   # id2-collapse: collapseThree5
+   # text-collapse: En su agencia Bancamiga mas cercana.
