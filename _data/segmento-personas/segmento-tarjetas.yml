@@ -11,12 +11,12 @@ data-y-subtitle: '440'
 products:
   - link: '/tarjetas-tarjeta-debito/'
     image: '/images/segmentos/TDD.png'
-  - link: '/tarjetas-tarjeta-credito-master-dorada/'
-    image: '/images/segmentos/TDC.png'
-  - link: '/tarjetas-tarjeta-credito-master-platinum/'
-    image: '/images/segmentos/TDC.png'
+  #- link: '/tarjetas-tarjeta-credito-master-dorada/'
+    #image: '/images/segmentos/TDC.png'
+  #- link: '/tarjetas-tarjeta-credito-master-platinum/'
+    #image: '/images/segmentos/TDC.png'
   - link: '/tarjetas-tarjeta-credito-visa-platinum/'
-    image: '/images/segmentos/tarjetas.png'
+    image: '/images/segmentos/TDC.png'
 
 
 title-footer: 'ENCUENTRA LO QUE BUSCAS'
