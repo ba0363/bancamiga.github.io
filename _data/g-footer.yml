@@ -50,9 +50,9 @@ links-bancamiga:
   - title: Seguridad
     link: /seguridad/
     icon: fa fa-angle-right
-#  - title: Empleos
-#    link: /
-#    icon: fa fa-angle-right
+  - title: Empleos
+    link: /
+    icon: fa fa-angle-right
 
 # links-Servicios
 links-Servicios:
