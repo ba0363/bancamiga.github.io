@@ -30,7 +30,7 @@ tabs-left:
        - element-list: Facilidad para realizar el pago de tu tarjeta de crédito a través  de Bancamiga en línea y Banca Telefónica.
       - element-list: Comodidad para gestionar y reportar requerimientos por el Centro de Atención Telefónica 0501Tubanca (8822622) y 0500Tubanca (8822622).
        - element-list: Depósitos amparados por el Fondo de Garantía de Depósitos y Protección Bancaria (FOGADE)..
-  #- id-tabs: messages8
+  - id-tabs: messages8
    # icon-tabs: fa fa-envelope fa-2x
    # name-tabs: Requisitos
    # content-tabs:
