@@ -32,7 +32,7 @@ tabs-left:
     icon-tabs: fa fa-envelope fa-2x
     name-tabs: Requisitos
     content-tabs:
-      - element-list: Estos recaudos se rigen por lo establecido en la Resolución 119.10 "Política conozca a su cliente” emitida por la SUDEBAN. Para algunos casos será necesario consignar documentos adicionales.
+      - element-list: Estos recaudos se rigen por lo establecido en la <a href="/pdf/RESOLUCION119-10.pdf">Resolución 119.10 "Política conozca a su cliente”</a> emitida por la SUDEBAN. Para algunos casos será necesario consignar documentos adicionales.
       - element-list: Poseer o abrir una Cuenta Corriente en Bancamiga.
   - id-tabs: Enlaces1
     icon-tabs: fa fa-cogs fa-2x
