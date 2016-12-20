@@ -8,43 +8,10 @@ data-y-subtitle: '240'
 subtitle: ¡Te ofrecemos más meses de financiamiento!</br>
 next: next
 
-#tabs para descripción de un producto
-tabs-left:
-  - id-tabs: description1
-    icon-tabs: fa fa-home fa-2x
-    name-tabs: Descripción
-    content-tabs:
-      - element-list: La Tarjeta de Crédito Bancamiga es un producto que está dirigido a personas que hayan sido beneficiarias de un Microcrédito otorgado por la institución.
-  - id-tabs: caracteristica1
-    icon-tabs: fa fa-user fa-2x
-    name-tabs: Características
-    content-tabs:
-      - element-list: La Tarjeta de Crédito Bancamiga es un producto que está dirigido a personas que hayan sido beneficiarias de un Microcrédito otorgado por la institución.
-      - element-list: Tasa de Interés al 28%.
-      - element-list: Transacciones en todos los puntos de venta a nivel nacional.
-      - element-list: Vencimiento del Plástico a 5 años.
-      - element-list: Avances de efectivo en cajeros automáticos.
-      - element-list: La Tarjeta se emite bloqueada, debe desbloquearse llamando a nuestro Centro de Atención Telefónica.
-      - element-list: Domiciliación del pago total o parcial en tu cuenta.
-      - element-list: Pago automático con cargo en cuenta de Bancamiga.
-      - element-list: Facilidad para realizar el pago de tu tarjeta de crédito a través  de Bancamiga en línea y Banca Telefónica.
-      - element-list: Comodidad para gestionar y reportar requerimientos por el Centro de Atención Telefónica 0501Tubanca (8822622) y 0500Tubanca (8822622).
-      - element-list: Depósitos amparados por el Fondo de Garantía de Depósitos y Protección Bancaria (FOGADE).
-  - id-tabs: Enlaces1
-    icon-tabs: fa fa-cogs fa-2x
-    name-tabs: Enlaces de Interes
-    content-tabs:
-     # - element-list: <a href="https://bancamiga.github.io/pdf/Contrato Tarjeta de Credito Bancamiga.pdf"> Contrato TDC</a>
-      - element-list: <a href="https://bancamiga.github.io/pdf/tarifas.pdf">Enlace de Tarifas</a>
-      - element-list: <a href="https://bancamiga.github.io/pdf/Tasas-y-Tarifas-Bancamiga-Julio-2015.pdf"> Enlace de Tasas </a>
-      - element-list: <a href="https://bancamiga.github.io/pdf/Contrato_TDC.pdf"> Contrato TDC</a>
-     # - element-list: <a href="http://www.bancamiga.com">Enlace para formatos, planillas y solicitudes </a>
-     # - element-list: <a href="http://www.bancamiga.com">Enlace Preguntas Frecuentes</a>
-
-#Preguntas frecuentes
-#title-seccion: Preguntas Frecuentes
-#preguntas-frecuentes:
- # - name: ¿La Cuenta Corriente con Intereses posee interese?
+Preguntas frecuentes
+title-seccion: Preguntas Frecuentes
+preguntas-frecuentes:
+  - name: ¿La Cuenta Corriente con Intereses posee interese?
     id1-collapse: headingOne5
     id2-collapse: collapseOne5
     text-collapse: Desde luego que sí..!!.
