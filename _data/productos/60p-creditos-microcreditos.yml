@@ -22,7 +22,7 @@ tabs-left:
       - element-list: Adquirir vehículos de carga o transporte.
       - element-list: Comprar maquinarias o herramientas.
       - element-list: Equipar tu negocio con computadoras, impresoras, fotocopiadoras y equipos eléctricos en general.
-      - element-list: Adquirir mercancí­a, productos terminados y materia prima necesaria para tu negocio.
+      - element-list: Adquirir mercancía, productos terminados y materia prima necesaria para tu negocio.
       - element-list: Realizar mejoras y acondicionamiento de las instalaciones de tu negocio.
       - element-list: Puedes hasta remodelar o iniciar tu negocio.
   - id-tabs: caracteristica1
@@ -50,7 +50,7 @@ tabs-left:
     icon-tabs: fa fa-cogs fa-2x
     name-tabs: Enlaces de Interes
     content-tabs:
-     # - element-list: <a href="http://www.bancamiga.com"> Montos de Apertura</a>
+      - element-list: <a href="http://www.bancamiga.github.io/pdf/Solicitud de Credito para Persona Natural.pdf"> Planilla de Solicitud</a>
       - element-list: <a href="https://bancamiga.github.io/pdf/tarifas.pdf">Enlace de Tarifas</a>
       - element-list: <a href="https://bancamiga.github.io/pdf/Tasas-y-Tarifas-Bancamiga-Julio-2015.pdf"> Enlace de Tasas </a>
       #- element-list: <a href="http://www.bancamiga.com">Enlace de Términos y condiciones</a>
