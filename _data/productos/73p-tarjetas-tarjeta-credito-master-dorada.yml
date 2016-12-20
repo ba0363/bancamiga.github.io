@@ -37,7 +37,7 @@ tabs-left:
      # - element-list: <a href="https://bancamiga.github.io/pdf/Contrato Tarjeta de Credito Bancamiga.pdf"> Contrato TDC</a>
       - element-list: <a href="https://bancamiga.github.io/pdf/tarifas.pdf">Enlace de Tarifas</a>
       - element-list: <a href="https://bancamiga.github.io/pdf/Tasas-y-Tarifas-Bancamiga-Julio-2015.pdf"> Enlace de Tasas </a>
-     # - element-list: <a href="http://www.bancamiga.com">Enlace de Términos y condiciones</a>
+      - element-list: <a href="https://bancamiga.github.io/pdf/Contrato_TDC.pdf"> Contrato TDC</a>
      # - element-list: <a href="http://www.bancamiga.com">Enlace para formatos, planillas y solicitudes </a>
      # - element-list: <a href="http://www.bancamiga.com">Enlace Preguntas Frecuentes</a>
 
