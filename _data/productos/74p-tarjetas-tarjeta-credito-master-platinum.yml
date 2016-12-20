@@ -43,10 +43,10 @@ tabs-left:
 #Preguntas frecuentes
 #title-seccion: Preguntas Frecuentes
 #preguntas-frecuentes:
-  - name: ¿La Cuenta Corriente con Intereses posee interese?
-    id1-collapse: headingOne5
-    id2-collapse: collapseOne5
-    text-collapse: Desde luego que sí..!!.
+#  - name: ¿La Cuenta Corriente con Intereses posee interese?
+#    id1-collapse: headingOne5
+#    id2-collapse: collapseOne5
+#    text-collapse: Desde luego que sí..!!.
   - name: ¿Cómo se movilizan este tipo de cuentas?
     id1-collapse: headingTwo5
     id2-collapse: collapseTwo5
