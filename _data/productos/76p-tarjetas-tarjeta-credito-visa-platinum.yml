@@ -30,9 +30,9 @@ tabs-left:
       - element-list: Afiliación sin costo al Servicio de Bancamiga en Línea donde podrás movilizar y consultar saldos cómodamente y en cualquier momento con tan sólo una conexión a Internet.
       - element-list: Cuentas con el servicio telefónico para efectuar tus consultas a través del 0501 TUBANCA (8822622) (0212) 8220701 o (0212) 8220702 en horario corrido de Lunes a Domingo incluyendo los días feriados.
       - element-list: Depósitos amparados por el Fondo de Garantía de Depósitos y Protección Bancaria (FOGADE).
-  - id-tabs: messages8
-    icon-tabs: fa fa-envelope fa-2x
-   name-tabs: Requisitos
+  #- id-tabs: messages8
+   # icon-tabs: fa fa-envelope fa-2x
+   #name-tabs: Requisitos
    content-tabs:
       - element-list: Ser mayor de edad.
       - element-list: Solicitar la apertura de la cuenta a través de cualquiera de nuestras agencias Bancamiga.
