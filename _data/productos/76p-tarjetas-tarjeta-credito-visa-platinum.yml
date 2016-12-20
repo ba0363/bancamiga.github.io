@@ -10,7 +10,7 @@ next: next
 
 #tabs para descripción de un producto
 tabs-left:
-   - id-tabs: description1
+  - id-tabs: description1
     icon-tabs: fa fa-home fa-2x
     name-tabs: Descripción
     content-tabs:
