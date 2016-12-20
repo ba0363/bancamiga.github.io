@@ -45,7 +45,8 @@ tabs-left:
       - element-list: Una Referencia Comercial, una Bancaria (hasta con tres (3) meses de emitida) o los tres (3) últimos Estados de Cuenta de otros Bancos, tanto de la empresa como de las personas autorizadas a movilizar la cuenta.
       - element-list: Un Recibo de Servicio Público (Agua, Luz, Teléfono, Gas) donde se indique la dirección de la compañía con vigencia no mayor a tres (3) meses de emisión.
       - element-list: Cédula de Identidad legible y vigente de los representantes de la empresa.
-        mesages-footer: Estos recaudos se rigen por lo establecido en la <a href="">Resolución 119.10 "Política conozca a su cliente”</a> emitida por la SUDEBAN. Para algunos casos será necesario consignar documentos adicionales.
+      - mesages-footer: Estos recaudos se rigen por lo establecido en la <a href="/pdf/RESOLUCION119-10.pdf">Resolución 119.10 "Política conozca a su cliente”</a> emitida por la SUDEBAN. Para algunos casos será necesario consignar documentos adicionales.
+      - element-list: Poseer o abrir una Cuenta Corriente en Bancamiga.
   - id-tabs: Enlaces1
     icon-tabs: fa fa-cogs fa-2x
     name-tabs: Enlaces de Interes
