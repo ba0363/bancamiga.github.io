@@ -8,7 +8,7 @@ data-y-subtitle: '240'
 subtitle: ¡Te ofrecemos más meses de financiamiento!</br>
 next: next
 
--#tabs para descripción de un producto
+-tabs para descripción de un producto
  -tabs-left:
  -  - id-tabs: description1
  -    icon-tabs: fa fa-home fa-2x
