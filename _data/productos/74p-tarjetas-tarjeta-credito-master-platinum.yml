@@ -41,8 +41,8 @@ tabs-left:
       - element-list: <a href="http://www.bancamiga.com">Enlace Preguntas Frecuentes</a>
 
 #Preguntas frecuentes
-title-seccion: Preguntas Frecuentes
-preguntas-frecuentes:
+#title-seccion: Preguntas Frecuentes
+#preguntas-frecuentes:
   - name: ¿La Cuenta Corriente con Intereses posee interese?
     id1-collapse: headingOne5
     id2-collapse: collapseOne5
