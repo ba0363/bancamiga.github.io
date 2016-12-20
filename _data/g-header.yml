@@ -15,7 +15,7 @@ button2-text: "Bancamiga en línea"
 button1-text: "Consulta"
 button2-text: "Bancamiga en línea"
 button2-text-modal: "Continuar"
-button2-url: "<a href=https://www.online.bancamiga.com/CGI-BIN/lansaweb?wam=USHMAIN&webrtn=Login&ml=LANSA:XHTML&part=DEV&lang=SPN"target="_blank</a>"
+button2-url: "https://www.online.bancamiga.com/CGI-BIN/lansaweb?wam=USHMAIN&webrtn=Login&ml=LANSA:XHTML&part=DEV&lang=SPN"
 #link-synergy: "http://www.synergy-gb.com"
 
 
