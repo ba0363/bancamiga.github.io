@@ -1,7 +1,15 @@
 logo_pagina: "/images/Logo-29.svg"
 url-logo: "/index.html"
 
+logo_modal: "/images/Logo-29.svg"logo_pagina: "/images/Logo-29.svg"
+url-logo: "/index.html"
+
 logo_modal: "/images/Logo-29.svg"
+text-modal: Teeeeee informamos que al seleccionar la opción</br> <b class="Importante">"CONTINUAR"</b> estarás ingresando a una página<br> administrada por el Consorcio Credicard
+url-modal: "https://www.credicardenlinea.com.ve/web/bancamiga"
+button-text: "Regresar"
+
+
 text-modal: Te informamos que al seleccionar la opción</br> <b class="Importante">"CONTINUAR"</b> estarás ingresando a una página<br> administrada por el Consorcio Credicard
 url-modal: "https://www.credicardenlinea.com.ve/web/bancamiga"
 button-text: "Regresar"
