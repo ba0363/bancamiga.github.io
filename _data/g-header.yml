@@ -7,23 +7,10 @@ text-modal: Te informamos que al seleccionar la opción</br> <b class="Important
 url-modal: "https://www.credicardenlinea.com.ve/web/bancamiga"
 button-text: "Regresar"
 
-
-text-modal: Te informamos que al seleccionar la opción</br> <b class="Importante">"CONTINUAR"</b> estarás ingresando a una página<br> administrada por el Consorcio Credicard
-url-modal: "https://www.credicardenlinea.com.ve/web/bancamiga"
-button-text: "Regresar"
-
-
-
-button1-text: "Consulta de TDC"
-button2-text: "Bancamiga en línea"
-#button2-url: "http://enobasistemas.com/banca_web_synergy/#/access/login"
-
 button1-text: "Consulta"
 button2-text: "Bancamiga en línea"
 button2-text-modal: "Continuar"
 button2-url: "https://online.bancamiga.com/CGI-BIN/lansaweb?wam=USHMAIN&webrtn=Login&ml=LANSA:XHTML&part=DEV&lang=SPN"
-#link-synergy: "http://www.synergy-gb.com"
-
 
 option-menu:
   - name: Personas

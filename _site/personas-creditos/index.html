@@ -78,8 +78,8 @@
                     <div class="pull-right hidden-sm hidden-xs">
                       <button class="navbar-btn btn buttonBancamiga min-width" data-toggle="modal" data-target="#modal-text" type="button">
                     </button>
-                    <a href="https://online.bancamiga.com/CGI-BIN/lansaweb?wam=USHMAIN&webrtn=Login&ml=LANSA:XHTML&part=DEV&lang=SPN">
-                      <button class="navbar-btn btn buttonBamiga min-width" style="margin-right: 1em;" type="button">
+                    <a href="https://online.bancamiga.com/CGI-BIN/lansaweb?wam=USHMAIN&webrtn=Login&ml=LANSA:XHTML&part=DEV&lang=SPN" target="_blank">
+                      <button class="navbar-btn btn buttonBamiga min-width" style="margin-right: 1em;" type="button" >
                       </button>
                     </a>
                     <button type="button" class="navbar-btn btn-icon btn-circle navbar-right last  hidden-sm hidden-xs" data-toggle="collapse" data-target="#header-search-form">
@@ -528,9 +528,11 @@
                 <div class="col-md-6 col-md-push-6">
                     <ul class="footer-menu">
                         <li>
+                          <a href="http://www.synergy-gb.com" target="_blank">
                           <button class="noBorder">
-                            <img class="logoFooter" src="/images/synergy-1.png" alt="Synergy-GB" data-toggle="modal" data-target="#modal-synergy">
+                            <img class="logoFooter" src="/images/synergy-1.png" alt="Synergy-GB">
                           </button>
+                          </a>
                         </li>
                     </ul>
                 </div><!-- End .col-md-6 -->
@@ -596,7 +598,7 @@
 </script>
 
   </body>
-  <div class="modal fade" id="modal-text" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3" aria-hidden="true">
+  <div class="modal fade" id="modal-text" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3" aria-hidden="false">
     <div class="modal-dialog modal-sm" style="width: 46em;">
         <div class="modal-content">
             <div class="modal-header">
@@ -608,14 +610,17 @@
             <div class="modal-footer">
               <div class="text-center">
                 <button style="margin-right: 10px;" type="button" class="btn btn-custom" data-dismiss="modal">Regresar</button>
-                <a href="https://www.credicardenlinea.com.ve/web/bancamiga">
-                  <button class="btn buttonRegister">Continuar</button>
-                </a>
+                  <button class="btn buttonRegister" id="oculta" data-dismiss="modal">Continuar</button>
               </div>
             </div><!-- End .modal-footer -->
         </div><!-- End .modal-content -->
     </div><!-- End .modal-dialog -->
   </div><!-- End .modal -->
+<script type="text/javascript">
+$('#modal-text').on('hidden.bs.modal', function (e) {
+  window.open("https://www.credicardenlinea.com.ve/web/bancamiga", "_blank");
+})
+</script>
 
 
   <div class="modal fade" id="modal-synergy" tabindex="-1" role="dialog" aria-labelledby="myModalLabel3" aria-hidden="true">
