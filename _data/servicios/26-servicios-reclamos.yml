@@ -24,9 +24,9 @@ image-about:
   #- image: /images/aboutsliders/aboutme/Empresa-cuentas
    # description: Images-3
    
-next: 'container-about'
+#next: 'container-about'
 
-tabs:
+#tabs:
   - id-tabs: caracteristica1
     icon-tabs: fa fa-user fa-2x
     name-tabs: Características
