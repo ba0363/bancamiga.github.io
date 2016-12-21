@@ -24,42 +24,46 @@ image-about:
   #- image: /images/aboutsliders/aboutme/Empresa-cuentas
    # description: Images-3
    
-   next: 'container-about'
-   
-  #tabs para descripción de un producto
-  tabs:
-  - id-tabs: description1
-    icon-tabs: fa fa-home fa-2x
-    name-tabs: Descripción
-    content-tabs:
-      - element-list: La Tarjeta de Crédito Bancamiga es un producto que está dirigido a personas que hayan sido beneficiarias de un Microcrédito otorgado por la institución.
+next: 'container-about'
+
+tabs:
   - id-tabs: caracteristica1
     icon-tabs: fa fa-user fa-2x
     name-tabs: Características
     content-tabs:
-      - element-list: La Tarjeta de Crédito Bancamiga es un producto que está dirigido a personas que hayan sido beneficiarias de un Microcrédito otorgado por la institución.
-      - element-list: Tasa de Interés al 28%.
-      - element-list: Transacciones en todos los puntos de venta a nivel nacional.
-      - element-list: Vencimiento del Plástico a 5 años.
-      - element-list: Avances de efectivo en cajeros automáticos.
-      - element-list: La Tarjeta se emite bloqueada, debe desbloquearse llamando a nuestro Centro de Atención Telefónica.
-      - element-list: Domiciliación del pago total o parcial en tu cuenta.
-      - element-list: Pago automático con cargo en cuenta de Bancamiga.
-      - element-list: Facilidad para realizar el pago de tu tarjeta de crédito a través  de Bancamiga en línea y Banca Telefónica.
-      - element-list: Comodidad para gestionar y reportar requerimientos por el Centro de Atención Telefónica 0501Tubanca (8822622) y 0500Tubanca (8822622).
-      - element-list: Depósitos amparados por el Fondo de Garantía de Depósitos y Protección Bancaria (FOGADE).
-  - id-tabs: Enlaces1
-    icon-tabs: fa fa-cogs fa-2x
-    name-tabs: Enlaces de Interes
+      - element-list: Transferencias entre tus cuentas,  así como a terceros dentro y fuera de Bancamiga de manera ágil.
+      - element-list: Realizar pagos de tus Tarjetas de Crédito propias o de terceros en el mismo Banco y en otros Bancos.
+      - element-list: Consulta de tus créditos en Bancamiga.
+      - element-list: Generación de Estados de cuenta.
+      - element-list: Cuentas con el servicio de Mensajería de Texto SMS para alertarte cada vez que realices una transacción.
+      - element-list: Disponible las 24 horas del día, los 365 días del año, con sólo acceder a la sección  de Bancamiga en Línea a través de nuestra página web Bancamiga.
+      - element-list: Cuentas con el servicio telefónico para efectuar tus consultas a través del 0501 TUBANCA (8822622) y 0500 TUBANCA (8822622) en horario corrido de Lunes a Domingo incluyendo los días feriados.
+      - element-list: "Monto diario permitido para transferencias a terceros y otros bancos:"
+        recaudos:
+          - requisito: "Persona Natural: Bs. 1.000.000,00."
+          - requisito: "Persona Jurídica: Bs. 1.000.000,00."
+  - id-tabs: messages8
+    icon-tabs: fa fa-envelope fa-2x
+    name-tabs: Requisitos
     content-tabs:
-     # - element-list: <a href="https://bancamiga.github.io/pdf/Contrato Tarjeta de Credito Bancamiga.pdf"> Contrato TDC</a>
-      - element-list: <a href="https://bancamiga.github.io/pdf/tarifas.pdf">Enlace de Tarifas</a>
-      - element-list: <a href="https://bancamiga.github.io/pdf/Tasas-y-Tarifas-Bancamiga-Julio-2015.pdf"> Enlace de Tasas </a>
-      - element-list: <a href="https://bancamiga.github.io/pdf/Contrato_TDC.pdf"> Contrato TDC</a>
-     # - element-list: <a href="http://www.bancamiga.com">Enlace para formatos, planillas y solicitudes </a>
-     # - element-list: <a href="http://www.bancamiga.com">Enlace Preguntas Frecuentes</a> 
-   
-   
-   
-
-next: 'container-about'
+      - element-list: Ser cliente Bancamiga con cualquiera de nuestros productos financieros.
+      - element-list: Consignar los recaudos solicitados según el tipo de cliente en cualquiera de nuestras agencias.
+      - element-list: "Personas naturales:"
+        recaudos:
+          - requisito: Cédula de Identidad laminada y vigente.
+          - requisito: Firma de la Planilla de Solicitud del Servicio.
+      - element-list: "Personas Jurídicas:"
+        recaudos:
+          - requisito: Carta de autorización por parte de la empresa.
+          - requisito: Cédula del representante legal de la empresa.
+          - requisito: Firma de la Planilla de Solicitud del Servicio.
+  #- id-tabs: messages10
+   # icon-tabs: fa fa-envelope fa-2x
+    #name-tabs: Valores
+    #content-tabs:
+      #- element-list: Integridad
+      #- element-list: Servir con calidad
+      #- element-list: Orientación al logro
+      #- element-list: Responsabilidad individual y social
+      #- element-list: Innovación
+      #- element-list: Trabajo en equipo
