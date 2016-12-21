@@ -27,7 +27,7 @@ image-about:
    next: 'container-about'
    
   #tabs para descripción de un producto
-  tabs-left:
+  tabs:
   - id-tabs: description1
     icon-tabs: fa fa-home fa-2x
     name-tabs: Descripción
