@@ -42,7 +42,7 @@ tabs-left:
      # - element-list: <a href="http://www.bancamiga.com">Enlace de Términos y condiciones</a>
      #- element-list: <a href="http://www.bancamiga.com">Enlace para formatos, planillas y solicitudes </a>
      # - element-list: <a href="http://www.bancamiga.com">Enlace Preguntas Frecuentes</a>
-
+<!--
 #Preguntas frecuentes
 #title-seccion: Preguntas Frecuentes
 #preguntas-frecuentes:
