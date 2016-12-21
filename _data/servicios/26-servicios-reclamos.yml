@@ -24,6 +24,8 @@ image-about:
   #- image: /images/aboutsliders/aboutme/Empresa-cuentas
    # description: Images-3
    
+   next: 'container-about'
+   
   #tabs para descripción de un producto
   tabs-left:
   - id-tabs: description1
