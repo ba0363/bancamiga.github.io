@@ -25,7 +25,7 @@ image-about:
    # description: Images-3
    
   #tabs para descripción de un producto
-# tabs-left:
+  tabs-left:
   - id-tabs: description1
     icon-tabs: fa fa-home fa-2x
     name-tabs: Descripción
