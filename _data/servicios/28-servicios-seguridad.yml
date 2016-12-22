@@ -93,7 +93,15 @@ list-about:
   - item-description: "<b>HIJACKING</b><br>"
     options:
       - sub-items: "El significado literal de dicha palabra es “secuestrar”. A la misma se vinculan distintos tipos de ataques, entre los que figuran:<br><br>"
-
+  - item-description: "<b>SESSION</b><br>"
+    options:
+      - sub-items: "Se produce cuando un atacante “se introduce” en el diálogo entre el servidor y un usuario legítimo. En este caso, el atacante deja que el usuario legítimo inicie una sesión con tu nombre de usuario y contraseña, para después ocupar tu lugar agregando tus propios mensajes en medio del diálogo que se mantienen entre los sistemas. Este tipo de ataques también se conoce con el nombre de “Man in the middle attack” o ataque de hombre en el medio."
+      - sub-items: "En otras palabras, el intruso intercepta el tráfico original y lo reemplaza por uno nuevo para enviárselo al servidor haciéndose pasar por el usuario original.<br><br>"
+  - item-description: "<b>¿Cómo evitarlo?</b><br>"
+    options:
+      - sub-items: "La protección natural frente a este tipo de ataques es el uso de protocolos de encriptación, como: IPSec o SSH, los cuales eliminan la posibilidad de obtener toda la información necesaria para reemplazar una sesión con otra."
+      - sub-items: "Para verificar la utilización de encriptación en los mensajes, por ejemplo en una página web deberá poder observar un candado cerrado en la parte inferior derecha, y al hacer doble clic sobre el mismo obtendrá información sobre el certificado utilizado por el sitio al cual se conecta verifique que el mismo esté a nombre de Bancamiga.<br><br>"
+      
 
 image-about:
   - image: /images/aboutsliders/aboutme/sliders/foto1.png
