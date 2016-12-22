@@ -109,7 +109,7 @@ list-about:
       - sub-items: "Mantener actualizado el software del equipo."
       - sub-items: "Tener habilitado y al día las versiones del software antivirus."
       - sub-items: "Modificar las configuraciones por defecto del navegador web elevando tu nivel de seguridad.<br><br>"
-  - item-description: "<b>EN CASO DE OLVIDO O BLOQUEO DE CLAVE:</b><br><br>"
+  - item-description: "<b>EN CASO DE OLVIDO O BLOQUEO DE CLAVE DE TARJÉTA DE DÉBITO:</b><br><br>"
     options:
       - sub-items: "<b>¿Qué debe hacer el cliente si olvida la clave de su TDD y bloquea su plástico por intentos fallidos?</b><br><br>"
       - sub-items: "Debe dirigirse a su oficina comercial más cercana para realizar la solicitud de desbloqueo de su tarjeta y cambio de clave."
