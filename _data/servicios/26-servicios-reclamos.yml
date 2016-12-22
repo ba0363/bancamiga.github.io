@@ -10,6 +10,8 @@ subtitle: 'Gestión de Reclamos y Requerimientos'
 
 text-title: "Unidad de Atención al Cliente"
 text-about: "En Bancamiga tienes a disposición la Unidad de Atención al Cliente, para poder efectuar tus sugerencias, quejas y reclamos, sólo debes dirigirte personalmente a la Agencia Bancamiga más cercana a tu domicilio o trabajo, presentar tu cédula de identidad laminada y los recaudos mínimos exigidos para formalizar tu reclamo, Al recibir tu requerimiento formal, La Unidad de Atención al Cliente y Usuario Bancario emitirá respuesta en un lapso no mayor de veinte (20) días continuos.<br><br>"
+text-about: <b>¿Qué es la Unidad de Atención al Cliente?</b>
+ 
 list-about:
   - item-description: Informa al Asesor de Atención al Cliente que deseas formalizar un reclamo.
   - item-description: Solicita información al respecto de  los recaudos y requisitos que debes cumplir y consignar para formalizar  el reclamo.
