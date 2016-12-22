@@ -109,12 +109,12 @@ list-about:
       - sub-items: "Mantener actualizado el software del equipo."
       - sub-items: "Tener habilitado y al día las versiones del software antivirus."
       - sub-items: "Modificar las configuraciones por defecto del navegador web elevando tu nivel de seguridad.<br><br>"
-  - item-description: "<b>EN CASO DE OLVIDO O BLOQUEO DE CLAVE:</b><br>"
+  - item-description: "<b>EN CASO DE OLVIDO O BLOQUEO DE CLAVE:</b><br><br>"
     options:
-      - sub-items: "<b>¿Qué debe hacer el cliente si olvida la clave de su TDD y bloquea su plástico por intentos fallidos?</b><br>"
+      - sub-items: "<b>¿Qué debe hacer el cliente si olvida la clave de su TDD y bloquea su plástico por intentos fallidos?</b><br><br>"
       - sub-items: "Debe dirigirse a su oficina comercial más cercana para realizar la solicitud de desbloqueo de su tarjeta y cambio de clave."
       - sub-items: "Modificar las configuraciones por defecto del navegador web elevando tu nivel de seguridad.<br><br>"
-      - sub-items: "<b>¿Puedo reponer una tarjeta porque el cliente no recuerda su clave?</b><br>"
+      - sub-items: "<b>¿Puedo reponer una tarjeta porque el cliente no recuerda su clave?</b><br><br>"
       - sub-items: "No, en este caso no aplica la reposición del plástico, si el cliente no recuerda su clave, debe dirigirse a cualquiera de nuestras Agencias Comerciales donde el Asesor de Atención al Cliente realizará el cambio de clave del registro y así usted podrá establecer una nueva clave a través de los cajeros automáticos."
 
 
