@@ -101,7 +101,15 @@ list-about:
     options:
       - sub-items: "La protección natural frente a este tipo de ataques es el uso de protocolos de encriptación, como: IPSec o SSH, los cuales eliminan la posibilidad de obtener toda la información necesaria para reemplazar una sesión con otra."
       - sub-items: "Para verificar la utilización de encriptación en los mensajes, por ejemplo en una página web deberá poder observar un candado cerrado en la parte inferior derecha, y al hacer doble clic sobre el mismo obtendrá información sobre el certificado utilizado por el sitio al cual se conecta verifique que el mismo esté a nombre de Bancamiga.<br><br>"
-      
+  - item-description: "<b>BROWSER</b><br>"
+    options:
+      - sub-items: "Son programas maliciosos que modifican configuraciones de los navegadores web, usualmente las páginas de inicio, otras producen los llamados “pop-ups” que son pequeñas ventanas que se abren automáticamente sin que nadie se lo indique."
+  - item-description: "<b>¿Cómo evitarlo?</b><br>"
+    options:
+      - sub-items: "Mantener actualizado el software del equipo."
+      - sub-items: "Tener habilitado y al día las versiones del software antivirus."
+      - sub-items: "Modificar las configuraciones por defecto del navegador web elevando tu nivel de seguridad.<br><br>"
+
 
 image-about:
   - image: /images/aboutsliders/aboutme/sliders/foto1.png
