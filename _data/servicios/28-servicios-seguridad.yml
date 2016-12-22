@@ -89,8 +89,10 @@ list-about:
       - sub-items: "Cuando termines de usar el equipo público, borra todos los archivos temporales y tu historial de Internet."
       - sub-items: "Cuídate de los posibles curiosos."
       - sub-items: "Verifica que no hayan dispositivos de almacenamiento externos conectados al CPU."
-      - sub-items: "Siempre es mejor utilizar tu propio equipo."
-
+      - sub-items: "Siempre es mejor utilizar tu propio equipo.<br><br>"
+  - item-description: "<b>HIJACKING</b><br>"
+    options:
+      - sub-items: "El uso de equipos públicos en cafés internet resulta práctico y económico, pero no siempre resulta seguro, es un riesgo para ti.<br><br>"
 
 
 image-about:
