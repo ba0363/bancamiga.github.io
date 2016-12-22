@@ -10,12 +10,14 @@ subtitle: 'Gestión de Reclamos y Requerimientos'
 
 text-title: "Unidad de Atención al Cliente"
 list-about:
-  - item-description: Dirígete a la Agencia de tu preferencia.
+  - item-description: "En Bancamiga tienes a disposición la Unidad de Atención al Cliente, para poder efectuar tus sugerencias, quejas y reclamos, sólo debes dirigirte personalmente a la Agencia Bancamiga más cercana a tu domicilio o trabajo, presentar tu cédula de identidad laminada y los recaudos mínimos exigidos para formalizar tu reclamo, Al recibir tu requerimiento formal, La Unidad de Atención al Cliente y Usuario Bancario emitirá respuesta en un lapso no mayor de veinte (20) días continuos.<br><br>"
   - item-description: Informa al Asesor de Atención al Cliente que deseas formalizar un reclamo.
   - item-description: Solicita información al respecto de  los recaudos y requisitos que debes cumplir y consignar para formalizar  el reclamo.
   - item-description: "Guarda la fotocopia de la Solicitud de Atención de Reclamos, como soporte y registro del requerimiento ante la institución Bancamiga. <br><br>"
   - title: Canales de Contacto
     item-description: Cuentas con el servicio telefónico para efectuar tus consultas a través del 0501 TUBANCA (8822622), (0212) 8220701 o (0212) 8220702 en horario corrido de Lunes a Domingo las 24 horas del día. Además puedes realizar tus transacciones de una forma cómoda, rápida y segura, conectándose a nuestra página web www.bancamiga.com mediante nuestro servicio Bancamiga en línea.
+    
+    
 image-about:
   - image: /images/aboutsliders/aboutme/Corporativo1-540x365-06.jpg
     description: Images-1
