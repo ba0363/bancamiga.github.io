@@ -78,7 +78,18 @@ list-about:
       - sub-items: "Mantener siempre actualizados los distintos softwares instalados en la computadora equipo, por ejemplo: sistema operativo, software antivirus, software de correo electrónico, chat, entre otros."
       - sub-items: "Jamás ejecutar un archivo anexado o un enlace dentro de un mensaje de correo de un remitente sospechoso o no conocido."
       - sub-items: "Evitar conectarse y unirse a servicios de Mensajería Instantánea como el MSN Messenger, el ICQ, Yahoo, Messenger o a algún canal de Chat desconocido."
-     
+  - item-description: "<b>Computadoras  de acceso público</b><br>"
+    options:
+      - sub-items: "El uso de equipos públicos en cafés internet resulta práctico y económico, pero no siempre resulta seguro, es un riesgo para ti.<br><br>"
+  - item-description: "<b>¿Cómo evitarlo?</b><br>"
+    options:
+      - sub-items: "No guardes la información de inicio de sesión."
+      - sub-items: "Cuando salgas de los sitios Web presiona el botón de desconexión del sitio, en lugar de simplemente cerrar la ventana del explorador o introducir otra dirección. Hay muchos programas (especialmente programas de mensajería instantánea) con funciones de inicio de sesión automático que guardan tu nombre de usuario y contraseña."
+      - sub-items: "No dejes el equipo desatendido mientras tengas información importante en la pantalla y más aún si necesitas alejarte del equipo aunque sea por un momento."
+      - sub-items: "Cuando termines de usar el equipo público, borra todos los archivos temporales y tu historial de Internet."
+      - sub-items: "Cuídate de los posibles curiosos."
+      - sub-items: "Verifica que no hayan dispositivos de almacenamiento externos conectados al CPU."
+      - sub-items: "Siempre es mejor utilizar tu propio equipo."
 
 
 
