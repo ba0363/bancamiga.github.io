@@ -77,7 +77,7 @@ list-about:
     options:
       - sub-items: "Mantener siempre actualizados los distintos softwares instalados en la computadora equipo, por ejemplo: sistema operativo, software antivirus, software de correo electrónico, chat, entre otros."
       - sub-items: "Jamás ejecutar un archivo anexado o un enlace dentro de un mensaje de correo de un remitente sospechoso o no conocido."
-      - sub-items: "Evitar conectarse y unirse a servicios de Mensajería Instantánea como el MSN Messenger, el ICQ, Yahoo, Messenger o a algún canal de Chat desconocido."
+      - sub-items: "Evitar conectarse y unirse a servicios de Mensajería Instantánea como el MSN Messenger, el ICQ, Yahoo, Messenger o a algún canal de Chat desconocido.<br>"
   - item-description: "<b>Computadoras  de acceso público</b><br>"
     options:
       - sub-items: "El uso de equipos públicos en cafés internet resulta práctico y económico, pero no siempre resulta seguro, es un riesgo para ti.<br><br>"
