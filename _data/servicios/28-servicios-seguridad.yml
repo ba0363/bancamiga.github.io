@@ -103,7 +103,7 @@ list-about:
       - sub-items: "Para verificar la utilización de encriptación en los mensajes, por ejemplo en una página web deberá poder observar un candado cerrado en la parte inferior derecha, y al hacer doble clic sobre el mismo obtendrá información sobre el certificado utilizado por el sitio al cual se conecta verifique que el mismo esté a nombre de Bancamiga.<br><br>"
   - item-description: "<b>BROWSER</b><br>"
     options:
-      - sub-items: "Son programas maliciosos que modifican configuraciones de los navegadores web, usualmente las páginas de inicio, otras producen los llamados “pop-ups” que son pequeñas ventanas que se abren automáticamente sin que nadie se lo indique."
+      - sub-items: "Son programas maliciosos que modifican configuraciones de los navegadores web, usualmente las páginas de inicio, otras producen los llamados “pop-ups” que son pequeñas ventanas que se abren automáticamente sin que nadie se lo indique.<br><br>"
   - item-description: "<b>¿Cómo evitarlo?</b><br>"
     options:
       - sub-items: "Mantener actualizado el software del equipo."
