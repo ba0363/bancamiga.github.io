@@ -5,7 +5,7 @@ data-y-title: '180'
 title: 'Crédito Relámpago'
 data-x-subtitle: '80'
 data-y-subtitle: '240'
-subtitle: ¡Para conductores y transportistas!</br> 
+# subtitle: ¡Para conductores y transportistas!</br> 
 next: next
 
 #tabs para descripción de un producto
