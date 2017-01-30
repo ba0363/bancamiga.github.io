@@ -17,8 +17,8 @@ slider:
 #    data-y-subtitle: 355
 #    subtitle: <b>Respaldada por Bancamiga y dirigida a todos los beneficiarios</br>de un Microcrédito.</b>
 #    link: /noticias/
-  #- data-title: Cuenta de ahorros
-    data-image: /images/Banner/foto-3.jpg
+  - data-title: Cuenta de ahorros
+   # data-image: /images/Banner/foto-3.jpg
     data-x-title: 80
     data-y-title: 120
     title: Ahorra y gana intereses
