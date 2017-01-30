@@ -31,6 +31,23 @@ tabs-left:
        - element-list: Facilidad para realizar el pago de tu tarjeta de crédito a través  de Bancamiga en línea y Banca Telefónica.
       - element-list: Comodidad para gestionar y reportar requerimientos por el Centro de Atención Telefónica 0501Tubanca (8822622) y 0500Tubanca (8822622).
        - element-list: Depósitos amparados por el Fondo de Garantía de Depósitos y Protección Bancaria (FOGADE).
+   id-tabs: Recaudos1
+   icon-tabs: fa fa-file fa-2x
+   name-tabs: Recaudos
+   content-tabs:
+     - element-list: Poseer un Microcrédito en Bancamiga.
+      - element-list: Fotocopia legible y ampliada al 75% del documento de identidad (Cédula de Identidad laminada vigente).
+      - element-list: Fotocopia del Registro de Información Fiscal R.I.F. Legible y Vigente.
+      - element-list: Una (1) referencia personal, que incluya nombre completo, copia de la cédula de identidad, número de teléfono (local) y firma de la persona que refiere. Emitida durante los últimos tres (3) meses
+     - element-list: Fotocopia de un (1) recibo de servicio público del lugar donde reside (luz, teléfono, agua, gas, telefonía celular post pago o Televisión por cable), donde pueda verificarse la dirección actual. La dirección del recibo debe ser igual a la reflejada en la planilla (En caso de no estar a nombre del cliente debe presentar una Carta de Residencia, emitida por la Jefatura o el Concejo Comunal). Con una vigencia menor a seis (6) meses.
+      - element-list: Constancia de trabajo original, con sello húmedo y R.I.F. de la empresa, indicando nombre, número de C.I. sueldo mensual, cargo, departamento, fecha de ingreso, nombre y firma de la persona autorizada, así como cargo y departamento o Certificación de Ingresos original, firmada y sellada (C.P.C.) por un Contador Público. En caso de ser profesional de libre ejercicio, comerciante o trabajador independiente. Con fecha de emisión menor a tres (3) meses.
+      - element-list: Estados de cuenta de otros Bancos de los últimos tres (3) meses en original, donde se evidencien los ingresos declarados en la solicitud. Si los ingresos se evidencian en las cuentas que mantiene en Bancamiga (durante los últimos tres (3) meses), no es necesaria su entrega.
+      - element-list: Una (1) referencia bancaria, que incluya tipos de cuenta / tarjetas, experiencia crediticia o record de pago. Con una antigüedad no mayor a tres (3) meses.
+     - element-list: Planilla Solicitud de Tarjeta de Crédito Persona Natural, debidamente llenada en todos sus apartados y firmada.
+      - element-list: Contrato de condiciones generales para Tarjeta de Crédito, debidamente firmado.
+      - element-list: Carta de Autorización de Débito en Cuenta.
+      - element-list: Carta Autorización de Verificación de Datos.
+   content-tabs:
    - id-tabs: Enlaces1
      icon-tabs: fa fa-cogs fa-2x
      name-tabs: Enlaces de Interes
